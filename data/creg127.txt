@@ -1,0 +1,497 @@
+
+
+GESTOR NORMATIVO - ALEJANDRÍA
+
+
+AYUDA
+
+BUSCAR
+Resolución 127 de 2013 CREG
+ANOTACIONES
+ANOTACIONES
+Reducir
+Normal
+Aumentar
+IMPRIMIR
+DESCARGAR
+ANEXOS
+Búsqueda
+BUSCAR
+Índice
+ÍNDICE
+Memoria
+MEMORIA
+Buscar
+Puede realizar búsquedas exactas dentro de este documento, ingrese el texto a buscar en la siguiente casilla:
+
+Ingrese texto exacto
+
+
+RESOLUCIÓN 127 DE 2013
+
+(septiembre 20)
+
+Diario Oficial No. 48.995 de 5 de diciembre de 2013
+
+COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS
+
+Por la cual se modifica el Anexo General de la Resolución CREG 067 de 1995 mediante la que se adoptó el Código de Distribución de Gas Combustible por Redes.
+
+Resumen de Notas de Vigencia
+Concordancias
+Doctrina Concordante
+LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS,
+
+en ejercicio de las atribuciones legales, en especial las conferidas por la Ley 142 de 1994, y en desarrollo de los Decretos números 2253 de 1994 y 2696 de 2004, y
+
+CONSIDERANDO QUE:
+
+La Ley 142 de 1994, en especial sus artículos 73 y 74, establece las funciones y competencias que le asisten a la Comisión de Regulación de Energía y Gas.
+
+Los artículos 144 y 145 de la Ley 142 de 1994 establecen disposiciones en relación con los instrumentos de medición del consumo, así como las obligaciones de los usuarios y las empresas en relación con esta.
+
+La Ley 401 de 1997 creó el Consejo Nacional de Operación de Gas Natural, en adelante CNOG, y determinó su conformación y funciones.
+
+Mediante la Resolución CREG 01 de 2000, el Usuario No Regulado, debe entenderse como aquel consumidor de más de 100.000 pcd o su equivalente en m3, a partir del 1o de enero de 2005, medida la demanda de acuerdo con lo dispuesto por el artículo 77 de la Resolución CREG 057 de 1996.
+
+El Decreto número 880 de 2007, modificado por el Decreto número 4500 de 2009, fijó el orden de atención prioritaria cuando se presenten insalvables restricciones en la oferta de Gas Natural o situaciones de grave emergencia, no transitorias, que impidan garantizar un mínimo de abastecimiento de la demanda.
+
+El Gobierno Nacional expidió en junio de 2011 el Decreto número 2100, “por el cual se establecen mecanismos para promover el aseguramiento del abastecimiento nacional de gas natural y se dictan otras disposiciones”.
+
+La citada norma dispuso en su artículo 21 que, “Cuando la CREG lo solicite, el CNOG expedirá los Acuerdos y Protocolos Operativos que se requieran con el fin de establecer los procedimientos, definiciones y parámetros básicos que deben regir para: (i) la operación del SNT; (ii) la programación de mantenimientos y/o intervenciones a la infraestructura de suministro y transporte de gas natural, que impliquen suspensión o pongan en riesgo la continuidad del servicio público; y (iii) la coordinación de los Agentes que utilicen el SNT cuando se presenten Insalvables Restricciones en la Oferta de Gas Natural o Situaciones de Grave Emergencia Transitorias y No Transitorias o Racionamiento Programado de gas natural de que trata el Decreto número 880 de 2007.
+
+El CNOG, por su propia iniciativa, podrá someter a consideración de la CREG los Protocolos y Acuerdos operativos que considere necesarios para lograr una operación segura, confiable y económica del SNT. La CREG contará con noventa (90) días para pronunciarse y, si es pertinente, adoptarlo mediante acto administrativo”.
+
+Mediante la Resolución número 067 de 1995, la CREG adoptó el Código de Distribución de Gas Combustible, y en el Capítulo IV.5.5 estableció disposiciones relativas a la medición y a los equipos de medición.
+
+El numeral 7.5 del Capítulo VII de la Resolución CREG 067 de 1995 dispuso que dicho Código “(…) está sujeto a las disposiciones que emita la autoridad reguladora, la cual podrá modificarlo cuando así lo considere, previa consulta con la Superintendencia de Servicios Públicos y la Dirección de Hidrocarburos del Ministerio de Minas y Energía”.
+
+Mediante la comunicación radicada con el número interno CREG E-2011-009296 y E-2011-009295 el CNOG remitió a la CREG algunos acuerdos y protocolos operativos para consideración de la CREG, así como una propuesta para desarrollar en el Reglamento Único de Transporte (RUT), la reglamentación de la telemetría para consumidores no regulados de gas natural.
+
+En la comunicación CREG S-2011-005459, el Comité de Expertos de la Comisión formuló algunos comentarios a los documentos recibidos.
+
+Mediante la comunicación CNOG-158-2012 radicada en la CREG con el número interno E-2012-009915 remitió el estudio de costos de telemetría realizado por parte del CNOG.
+
+El incremento de Usuarios industriales y estaciones de GNV hace necesaria la telemetría para facilitar la lectura del medidor y permite la supervisión de la asignación de gas en situaciones de emergencia o de racionamiento programado, así como para monitorear las variables de las redes de distribución para prestarle un mantenimiento adecuado y corregir fallas de forma inmediata.
+
+Teniendo en cuenta lo anterior la Comisión de Regulación de Energía y Gas ha encontrado que se hace necesario adicionar el Código de Distribución con medidas para la instalación obligatoria de equipos de telemetría a Usuarios industriales y estaciones de GNV conectados a sistemas de distribución de gas natural.
+
+Mediante la Resolución CREG 133 de 2012, la Comisión hizo público el proyecto de Resolución, “por la cual se modifica el Anexo General de la Resolución CREG 067 de 1995 mediante la que se adoptó el Código de Distribución de Gas Combustible por Redes”.
+
+Durante el período de consulta de la mencionada resolución, se recibieron comentarios de:
+
+Empresa	Radicado
+CNOG	E-2013-001265
+Emgesa	E-2013-001406, E-2013-001259
+EPM	E-2013-001283
+Gas Natural	E-2013-001264
+Gases del Caribe	E-2013-001286
+Isagen	E-2013-001198
+Surtigas	E-2013-001281, E-2013-001289, E-2013-002617
+Gases de Occidente	E-2013-001285
+Efigas	E-2013-001288
+Mediante la Resolución CREG 158 de 2012, la comisión hizo público el proyecto de Resolución, “por la cual se ordena hacer público un proyecto de resolución de carácter general, “por la cual se modifica y complementa el Código de Distribución de gas combustible por redes establecido mediante Resolución CREG 067 de 1995”.
+
+Durante el periodo de consulta de la mencionada Resolución número 158 de 2012, se recibieron comentarios de:
+
+Empresa	Radicado
+EPM	E-2013-001266
+Gas Natural	E-2013-001263
+Gases del Caribe	E-2013-001286
+Surtigas	E-2013-001281-E-2013-001289
+Gases de Occidente	E-2013-001285
+Efigas	E-2013-001288
+Estos comentarios fueron analizados, estudiados y se responden en su integridad en el documento CREG 088 de 2013.
+
+Teniendo en cuenta que las propuestas contenidas en las resoluciones antes mencionadas, de acuerdo con los comentarios recibidos y observando que ambas hacen ajustes al Código de Distribución, por parte de la Comisión se decidió compilarlas en una sola al momento de su promulgación.
+
+En cumplimiento de lo establecido en la Ley 1340 de 2009, el artículo 8o del Decreto número 2897 de 2010 y la Resolución SIC 44649 de 2010, la CREG procedió a dar respuesta al cuestionario expedido por la Superintendencia de Industria y Comercio SIC, encontrando que el presente acto no requiere ser remitido a la SIC por no tener incidencia en la libre competencia.
+
+Según lo previsto en el artículo 9o del Decreto número 2696 de 2004, concordante con el artículo 8o del Código de Procedimiento Administrativo y de lo Contencioso Administrativo, la regulación que mediante la presente resolución se adopta ha surtido el proceso de publicidad previo correspondiente según las normas vigentes, garantizándose de esta manera la participación de todos los agentes del sector y demás interesados.
+
+La Comisión de Regulación de Energía y Gas en su sesión número 574 del 20 de septiembre de 2013 acordó expedir esta Resolución,
+
+RESUELVE:
+
+ARTÍCULO 1o. Adiciónense al numeral 6.1 del Capítulo VI. Definiciones del Anexo General de la Resolución CREG 067 de 1995, lo siguiente:
+
+Para la interpretación y aplicación de la telemetría, se tendrán en cuenta las siguientes definiciones:
+
+Centros de Control del Distribuidor: Centro perteneciente al Sistema de Distribución operado por un agente encargado de adelantar los procesos operacionales, comerciales y demás definidos en el Código de Distribución.
+
+Para los fines de Telemetría el Centro de Control tiene el hardware y el software necesario para la adquisición de datos que se envía desde las estaciones remotas.
+
+Computador de Flujo o unidad correctora de volumen: Es un elemento terciario del Sistema de Medición que recibe las señales de salida proveniente(s) del (de los) dispositivo(s) de medición de flujo, o de otro computador de flujo y/o de los instrumentos de medida asociados, transformándolos y puede almacenar los resultados en la memoria como mínimo por 40 días para que sean usados.
+
+Equipo de Telemetría: Elemento del sistema de medición utilizado para la transmisión de datos de forma remota, con equipos eléctricos o electrónicos para detectar, acumular y procesar datos físicos en las Estaciones Reguladoras de Puerta de Ciudad o una estación de Gas Natural Comprimido o estaciones de Transferencia de Custodia de Distribución y los Puntos de Salida donde están ubicados los Usuarios No Regulados y estaciones de GNV; para después transmitirlos al Centro de Control de un Distribuidor donde pueden procesarse y almacenarse.
+
+Sistema de Medición: Sistema que comprende el módulo de medición, todos los dispositivos auxiliares y adicionales, y cuando sea apropiado, un sistema de soportes documentales asegurando la calidad y la trazabilidad de los datos.
+
+GPRS: Servicio General de Paquetes vía Radio.
+
+Telemetría: Es la lectura de forma remota, periódica de la información disponible en medidores de consumo de gas con el objetivo de:
+
+-- Realizar de forma remota la gestión del sistema de medición:
+
+-- Lectura del medidor.
+
+-- Monitoreo de las variables.
+
+-- Realizar de forma remota la gestión operativa y del servicio.
+
+-- Diagnóstico y detección de fallas.
+
+-- Recolección de la información necesaria para la facturación.
+
+-- Monitoreo de la calidad del servicio.
+
+-- Control de pérdidas / Detección y prevención de fraude.
+
+Para poder realizar el envío de los datos cuenta con sistemas de transmisión como: satélite, fibra óptica, GPRS, teléfono fijo, Unidad Terminal Remota (UTR), entre otros.
+
+SCADA: Supervisión, Control y Adquisición de Datos.
+
+Unidad Terminal Remota (UTR): Sigla más conocida en inglés como RTU, mediante la cual se define a un dispositivo que es parte del sistema de medición y basado en microprocesadores, el cual permite obtener señales independientes de los procesos y enviar la información al Centro de Control de un Distribuidor donde se procese haciendo parte de un sistema central Scada o un software de adquisición de datos el cual permita, entre otras, visualizar las variables enviadas por la UTR. Este elemento puede reemplazar al computador de flujo en la medida en que cumpla con los estándares técnicos para tal fin, lo que lo convierte en parte constitutiva del Sistema de Medición.
+
+Doctrina Concordante
+Ir al inicio
+ARTÍCULO 2o. Modifíquese el numeral 4.25 del Anexo General de la Resolución CREG 067 de 1995, el cual quedará así:
+
+El distribuidor podrá periódicamente cambiar o modificar el Sistema de Medición o parte del mismo. El nuevo equipo estará a cargo del distribuidor, a menos de que se trate de fraudes del Usuario, terminación de la vida útil, por mal funcionamiento, cuando el desarrollo tecnológico ponga en el mercado instrumentos de medida más precisos y variación en los consumos por fuera del máximo error permisible conforme a la clase de los equipos, en cuyos casos será a cargo del Usuario, siempre y cuando se trate de un equipo que cumpla con las características requeridas para los equipos de medición y sea acorde con el consumo, de acuerdo con el numeral 4.27 del Anexo General de la Resolución CREG 067 de 1995.
+
+Cuando el distribuidor encuentre defectos en los Equipos de Telemetría de los Usuarios No Regulados que estén obligados a tenerla según el numeral 4.28 de este Código, que afecten la confiabilidad, la precisión o la oportunidad de la transmisión de datos del Sistema de Medición, deberá notificarlo al propietario.
+
+Es obligación del Usuario No Regulado o Comercializador, hacer reparar o reemplazar los Sistemas de Medición de su propiedad y los Equipos de Telemetría a satisfacción del Distribuidor, dentro de los estándares técnicos, cuando se establezca que el funcionamiento no permite determinar en forma adecuada los consumos. Esta reparación o reemplazo se debe efectuar en un período no superior a un periodo de facturación contados a partir del recibo de la notificación por parte del Distribuidor, cuando pasado este período el Usuario No Regulado no tome las acciones necesarias para reparar o reemplazar los equipos de su propiedad, el Distribuidor podrá hacerlo por cuenta del Usuario No Regulado o Comercializador trasladando los costos a estos y en caso de que no se cancele este costo en el plazo establecido por el distribuidor, se procederá al retiro del sistema de medición y cortar el servicio.
+
+Doctrina Concordante
+Ir al inicio
+ARTÍCULO 3o. Modifíquese el numeral 4.27 del Anexo General de la Resolución CREG 067 de 1995, el cual quedará así:
+
+Sistemas de Medición.
+
+Los sistemas de medición deberán estar homologados de conformidad con la normativa que se encuentre vigente en el País o, en su defecto, se emplearán las recomendaciones de la Asociación Americana de Gas – “American Gas Association” (AGA), del “American National Standars Institute” (ANSI), última edición y de la International Organization of the Legal Metrology (OIML), y constarán de:
+
+a) Elemento primario: Es el dispositivo esencial usado para la medición del gas; incluye, pero no está limitado a, medidores de orificios, turbinas, ultrasónicos, rotatorios, másicos o de diafragma. Salvo acuerdo entre las partes, para elementos primarios del tipo turbina se evitará el uso de las configuraciones de instalación a que hace referencia el numeral 3.2.2 del reporte número 7 de AGA, en su edición de 1996, o la que lo modifique, adicione o sustituya.
+
+b) Elementos secundarios: Corresponden a los elementos registradores, transductores, o transmisores que proporcionan datos, tales como: presión estática, temperatura del gas, presión diferencial, densidad relativa y son de carácter obligatorio para todos los sistemas.
+
+c) Elementos terciarios: Corresponden a la Terminal Remota, el equipo de Telemetría y un Computador de Flujo o unidad correctora de datos, programado para calcular correctamente el flujo, dentro de límites especificados de exactitud e incertidumbre, que recibe información del elemento primario y de los elementos secundarios.
+
+Los elementos terciarios son de carácter obligatorio para puntos de transferencia de custodia, para Usuarios No Regulados y estaciones de gas natural vehicular, así como para cualquier Usuario con consumos iguales o mayores a la clase B referenciada en la tabla que se encuentra en este numeral.
+
+El distribuidor seleccionará los tipos y características del Sistema de medición correspondiente a las clases referenciadas en la tabla anexa. El Usuario No Regulado o Comercializador deberá proporcionar Sistemas de Medición que brinden registros precisos, conforme a lo establecido en la tabla que a continuación se presenta y que además deberán estar adecuados a los efectos de la facturación y efectuar la revisión y calibración de dichos equipos, conforme lo establezca el fabricante en certificado de conformidad de producto.
+
+DESCRIPCIÓN	CLASE A	CLASE B	CLASE C	CLASE D
+Flujo Máximo Diseño Sistemas de Medición	>353 KPCH
+
+>9995,7 m3/h	< 353 > 35,3 KPCH
+
+< 9995,7 > 999,5 m3/h	< 35,3 > 10 KPCH
+
+< 999,5 > 283,16 m3/h	< 10 KPCH
+
+< 283,16 m3/h
+Error máximo permisible de volumen	+/- 0,9 %	+/- 1,5 %	+/- 2%	+/- 3,0 %
+Error máximo permisible de Energía	+/- 1,0 %	+/- 2,0 %	+/- 3,0 %	+/- 5 %
+Los errores de la tabla anterior deberán ser cumplidos por el Sistema de Medición en su conjunto y adicionalmente, deberá cumplir en la materia con las disposiciones de la Superintendencia de Industria y Comercio.
+
+La instalación de los Sistemas de Medición corresponde al Distribuidor, el cual trasladará al Usuario los costos que por ese hecho se generen.
+
+El Usuario podrá elegir las marcas de los equipos que componen el Sistema de Medición, las cuales solo podrán ser rechazadas por razones técnicas o por falta de homologación.
+
+Cuando el Usuario, por su parte esté obligado a instalar equipos de telemetría según lo establecido en el numeral 4.28 de esta resolución, este será responsable de cubrir los costos de los equipos de telemetría, así como los involucrados en su instalación, operación y mantenimiento, los cuales deberán cumplir con las características técnicas y los protocolos operativos que establezca el distribuidor, así como las recomendaciones de los fabricantes del equipo.
+
+En caso de que el Usuario No Regulado o Comercializador no haya instalado el equipo de telemetría en el plazo señalado en el numeral 5.12 del Capítulo V.3.4, el distribuidor lo instalará y le trasladará los costos correspondientes y en caso de que no se cancele estos costos en el plazo establecido por el distribuidor, se procederá al retiro del Sistema de Medición y cortar el servicio.
+
+Entre las características que se deben garantizar en los equipos de telemetría están las siguientes:
+
+a) Los sistemas de comunicación utilizados en equipos de telemetría deberán garantizar un índice de continuidad del servicio; este índice será acordado entre el distribuidor y el Usuario No Regulado o el Comercializador.
+
+b) El computador de flujo o unidad correctora debe tener al menos un puerto serial de uso exclusivo para Telemetría, de velocidad configurable, donde se conectará un modem externo. El protocolo de comunicaciones del computador de flujo debe ser tipo maestro- esclavo apropiado para redes de área amplia de baja velocidad (< 1 Mbps). Los elementos necesarios para la comunicación (antena, cableado, modem) incluyendo la alimentación del modem y el mantenimiento periódico de éstos hacen parte integral del Equipo de Telemetría.
+
+c) El Computador de Flujo o Unidad Correctora debe tener al menos un puerto de comunicaciones de uso exclusivo del distribuidor, donde se conectará un dispositivo externo de transmisión de datos. La solución de comunicaciones, el tipo de puertos y el protocolo a usar deben ser los requeridos por el Distribuidor a fin que se integren a su Centro de Control.
+
+d) El Computador de Flujo o Unidad Correctora debe satisfacer los requerimientos de la norma técnica internacional API 21.1, o su reporte equivalente en AGA o la que la modifique o sustituya y facilitar el acceso, al Usuario No regulado o Comercializador al cual preste el servicio, a la información del Sistema de Medición.
+
+e) En caso de Sistemas de Medición con Equipos de Telemetría deberá permitir el acceso a los datos de medición al Usuario No Regulado o Comercializador de acuerdo con la periodicidad de comunicación con que cuente el Distribuidor en su página web.
+
+PARÁGRAFO. Para los Usuarios Regulados que según sus consumos la clase del medidor sea C o D deberán cumplir con las Normas Técnicas Colombianas (NTC) 2728 y 4136, así:
+
+Errores máximos permisibles
+
+Tasa de flujo	Verificación inicial	En servicio
+Medidores tipo diafragma
+Qmín = Q = 0.1 Qmáx	± 3%	+6%, -3%
+0.1Qmax = Q = Qmáx	± 1,5%	± 3%
+Tasa de flujo	Medidores tipo rotatorio
+Qmín = Q = 0.1 Qmáx	± 2%	± 3%
+0.1Qmáx = Q = Qmáx	± 1%	± 1,5 %
+Doctrina Concordante
+Ir al inicio
+ARTÍCULO 4o. Adiciónese con el siguiente numeral el Capítulo IV.5.5 del Anexo General de la Resolución CREG 067 de 1995:
+
+4.28. Conforme a la definición de Equipo de Telemetría, este equipo será obligatorio en las Estaciones Reguladoras de Puerta de Ciudad o un Tanque de Almacenamiento, o estaciones de Transferencia de Custodia de Distribución y los Puntos de Salida donde están ubicados los Usuarios no Regulados y estaciones de GNV, para después transmitirlos al Centro de Control de un Distribuidor donde pueden procesarse y almacenarse. Esta obligación no aplica para las Estaciones Reguladoras de Puerta de Ciudad en las cuales no se encuentren los Equipos de Telemetría en los costos asociados a las unidades constructivas.
+
+El distribuidor podrá instalar una Unidad Correctora o un Computador de Flujo según considere necesario debido a la operación del Usuario.
+
+Para la implementación y aplicación de la Telemetría se tendrán en cuenta además de las establecidas en los numerales 4.25 y 4.27 de este Código, las siguientes disposiciones:
+
+4.28.1. Es responsabilidad del distribuidor realizar las cuentas de balance diarias del Usuario cuando esto aplique, conforme lo establezca la CREG en resolución aparte.
+
+4.28.2. Es responsabilidad del distribuidor los servicios de comunicaciones necesarios para la transmisión de señales desde los puntos de medida con Telemetría hasta los Centros de Control correspondientes.
+
+PARÁGRAFO. Los numerales del artículo 4o, aplican únicamente a sistemas de distribución de gas natural.
+
+Concordancias
+Doctrina Concordante
+Ir al inicio
+ARTÍCULO 5o. Modifíquese el numeral 5.12 del Capítulo V.3.4 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995, el cual quedará así:
+
+5.12 El distribuidor o el comercializador se reservarán el derecho, sujeto a revisión por la autoridad reguladora, de:
+
+a) Establecer limitaciones sobre el monto y el carácter del servicio de gas que suministrará.
+
+b) Rehusar el servicio a nuevos Usuarios o Usuarios ya existentes para carga adicional, si el comercializador no puede obtener suministro suficiente para dicho servicio.
+
+c) Rechazar solicitudes de servicio o servicio adicional, cuando no se encuentra gas adicional disponible, sin detrimento de la calidad del servicio a otros Usuarios.
+
+d) En casos de racionamiento programado o de grave emergencia de que trata el Decreto número 880 de 2007, modificado por el Decreto número 4500 de 2009 o aquellos que en el futuro lo modifiquen, adicionen o sustituyan, los distribuidores enviarán para el pronóstico del día de gas las nominaciones diarias de gas por tipo de Usuario Regulado y No Regulado y para los consumos del día de gas la asignación efectiva al CNOG, a la Superintendencia de servicios Públicos y al Ministerio de Minas y Energía para el ejercicio de sus competencias en los tiempos que establezca la CREG en resolución aparte.
+
+e) Cuando por causa de insalvables restricciones o grave emergencia que generen situaciones de racionamiento programado según lo establecido en el Decreto número 880 de 2007, modificado por el Decreto número 4500 de 2009 o aquellos que lo modifiquen, adicionen o sustituyan, se presenten variaciones de salida generadas por los Remitentes o no se atiendan ordenes operacionales emitidas por el distribuidor, que llegasen incluso a la notificación al Usuario para cesar el consumo de gas y este haga caso omiso, situación que será comprobada por el consumo que se registre el día de la restricción en el Sistema de Medición, el Usuario deberá entregar una compensación al distribuidor, equivalente al costo de racionamiento por el consumo asignado más el volumen desviado en el día de la restricción.
+
+El costo de racionamiento, para el cálculo de la compensación, será el equivalente al precio del sustituto, esto es: para los industriales el sustituto sin autogeneración o cogeneración es el GLP, para industriales con autogeneración o cogeneración el sustituto es el Diésel y en el caso de las estaciones de GNV el sustituto es gasolina. Los precios de los sustitutos serán los corrientes a la fecha de la compensación. Para el cálculo del costo se empleará la equivalencia del precio entre el Gas Natural y el sustituto a pesos por metro cúbico.
+
+La compensación antes citada, será entregada al (los) comercializador(es) a prorrata, que atiendan mercado regulado, en donde se generó la variación por parte del Usuario. El comercializador la tomará como una venta de excedente, el cual se verá reflejado en una reducción del componente correspondiente al costo promedio de las compras de Gas –G a trasladar a los Usuarios Regulados que son atendidos por el respectivo Comercializador.
+
+En caso de que el agente deba entregar una compensación, por la ocurrencia de los eventos a los que se refiere el primer inciso del presente literal o por racionamiento programado, solamente se aplicará la contemplada en el presente numeral y no aplicará ninguna otra.
+
+Además, luego de desatender la orden operativa del Distribuidor, este último podrá exigir al usuario la instalación de una válvula de operación remota en el punto de conexión con el usuario, compatible con el sistema de comunicaciones del respectivo Sistema de Distribución, para que se pueda realizar la apertura y cierre de dicha válvula de forma remota desde el Centro de Control del Distribuidor.
+
+El Distribuidor podrá operar la válvula de control remoto para cierre en el punto de conexión, por desviación de consumo en situaciones de Racionamiento Programado y queda exonerado por cualquier daño que puedan sufrir los equipos industriales asociados con la interrupción del servicio.
+
+Si después de seis meses el usuario no cumple con las condiciones descritas anteriormente, el distribuidor deberá cortarle el servicio.
+
+Ir al inicio
+ARTÍCULO 6o. Se modifica el tema correspondiente al Capítulo V.5 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995, el cual de ahora en adelante será “Sistemas de Medición”.
+
+Ir al inicio
+ARTÍCULO 7o. Modifíquese el numeral 5.29 del Capítulo V.5.5 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995, el cual quedará así:
+
+5.29. La exactitud de los equipos de medición será verificada por el Distribuidor a intervalos razonables y como máximo conforme lo establezca el fabricante en certificado de conformidad de producto y de ser solicitado en presencia de representantes del Usuario. En caso de que el Usuario solicite una comprobación especial de cualquier equipo, las partes cooperarán para garantizar una inmediata verificación de exactitud de tal equipo, el gasto de tales comprobaciones especiales correrá por cuenta del usuario.
+
+La calibración de los medidores la realizará el distribuidor en sus propios laboratorios o de terceros debidamente certificados por el Organismo Nacional de Acreditación de Colombia (ONAC). La calibración de los sistemas de medición que no pueda ser realizada en estos laboratorios, deberá llevarse a cabo con laboratorios ubicados en el exterior del país, acreditados de acuerdo con la norma ISO/IEC 17025.
+
+Doctrina Concordante
+Ir al inicio
+ARTÍCULO 8o. Modifíquese el numeral 5.30 del Capítulo V.5.6 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995, el cual quedará así:
+
+5.30. Los sistemas de medición deberán cumplir con lo previsto en el artículo 4.27 de la presente Resolución. El Distribuidor y el Usuario podrán acordar que el medidor será calibrado cuando esté fuera de rango y en caso de que el sistema de medición no se pueda calibrar, este deberá ser reemplazado por uno nuevo.
+
+Ir al inicio
+ARTÍCULO 9o. Modifíquese el numeral 5.31 del Capítulo V.5.7 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995, el cual quedará así:
+
+5.31. La cantidad de gas registrada por el sistema de medición de volumen sujeta a las correcciones aplicables por presión, temperatura y compresibilidad, será utilizada para los efectos de facturación.
+
+Ir al inicio
+ARTÍCULO 10. Modifíquese el numeral 5.32 del Capítulo V.5.7 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995 el cual quedará así:
+
+5.32. Los Comercializadores deberán corregir los volúmenes registrados en los sistemas de medición a los valores de presión y temperatura estándar establecidos en el numeral 5.39, salvo que el Sistema de Medición utilizado tenga incorporados los mecanismos para realizar en forma automática tales correcciones en sitio.
+
+Concordancias
+Ir al inicio
+ARTÍCULO 11. Se deroga el numeral 5.37 del Capítulo V.5.9 del Código de Distribución de Gas Combustible por Redes.
+
+Doctrina Concordante
+Ir al inicio
+ARTÍCULO 12. Se deroga el numeral 5.38 del Capítulo V.5.9 del Código de Distribución de Gas Combustible por Redes.
+
+Ir al inicio
+ARTÍCULO 13. <Ver modificaciones a este artículo directamente en la Resolución 67 de 1995> Modifíquese el numeral 5.39 del Capítulo V.5.10 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995, el cual quedará así:
+
+5.39. En caso de facturar el consumo de gas en volumen, este debe expresarse en metros cúbicos a temperatura de 15,56oC (60oF), y a una presión atmosférica de 1,01008 bar (14,65 psia).
+
+La corrección de volumen a estas condiciones estándar se determinará con la siguiente expresión:
+
+Vc = Vm * Kp * KT *Fpv
+
+Donde:
+
+Vc: volumen corregido.
+
+Vm: volumen medido al Usuario.
+
+Kp: factor de corrección por presión.
+
+KT: factor de corrección por temperatura.
+
+Fpv: factor de corrección por compresibilidad.
+
+Para proceder al cálculo de los diferentes factores aplicables a la fórmula de Volumen Corregido Vc, se procederá de la siguiente manera:
+
+a) Factor de corrección por presión Kp:
+
+
+
+Donde:
+
+Pm: presión manométrica en el medidor del Usuario.
+
+Pa: presión atmosférica.
+
+Pe: presión estándar, 1,01008 Bar (14,65 psia).
+
+b) Presión manométrica en el medidor del Usuario Pm:
+
+La presión manométrica, dependerá del tipo de Usuario (residencial, comercial, industrial), para residenciales estará entre un rango de 17,23mbar (0,25psi) a 41,36mbar (0,6psi); para los Usuarios comerciales e industriales la presión manométrica de operación la definirá el Distribuidor. Los distribuidores deberán garantizar los perfiles de presión referenciados.
+
+c) Presión atmosférica P:
+
+Se calcula con base con la presión atmosférica y la altura sobre el nivel del mar y a la temperatura del lugar mediante la siguiente ecuación.
+
+
+
+Donde:
+
+[Pa]: Unidades de Pascales.
+
+Po: presión atmosférica a nivel del mar, 101325 Pa.
+
+g: Gravedad en la tierra, 9.81 m/s2.
+
+R: Constante específica para aire seco 287.058 J/kg K.
+
+X: Altura sobre el nivel del en (m) mar a la que se encuentra el domicilio del Usuario. Se deben considerar los diferentes pisos térmicos para cada variación de 200 metros sobre el nivel del mar, en donde se tomará el menor valor entre el rango que se encuentre.
+
+K: temperatura ambiente promedio mensual en grados kelvin en donde K= 273.15 + Tm del municipio donde se encuentra el domicilio del Usuario y conforme a su ciclo de facturación utilizando la siguiente fórmula:
+
+
+
+Donde:
+
+Tm: Temperatura promedio del ciclo de facturación en grados centígrados del mes con mayor número de días del ciclo de facturación y corresponde a cada uno de los meses de enero a diciembre.
+
+NDn+i Número de días del ciclo de facturación en el mes n+i
+
+Tn+i: Temperatura del mes n+i del municipio donde se encuentra el domicilio del Usuario. Para esto el Comercializador podrá utilizar el informe “Promedios Climáticos” reportado por el Ideam y utilizará la medición que se asimile más a la localización del domicilio del Usuario, no obstante se deberá utilizar las temperaturas que puedan ser tomadas por equipos de medición de temperatura ambiente pertenecientes al distribuidor o comercializador.
+
+DF Número total de días del ciclo de facturación.
+
+n: Mes calendario de la toma de la lectura.
+
+Para esto el Comercializador deberá utilizar el informe del Ideam “Promedios Climáticos”, y tomará la temperatura del rango allí dispuesto para efectos del cálculo del indicador móvil de pérdidas y utilizará la medición que se asimile más a la localización del domicilio del usuario. No obstante el comercializador podrá utilizar las temperaturas que puedan ser tomadas de la información procesada y tomada por equipos de medición de temperatura ambiente certificados por la SIC o quien haga sus veces pertenecientes al distribuidor.
+
+d) Factor de corrección por temperatura Kt:
+
+
+
+Donde:
+
+Te: temperatura estándar, 15,56oC.
+
+Tm: Temperatura del mes de facturación m del municipio donde se encuentra el domicilio del Usuario y conforme a su ciclo de facturación.
+
+e) Factor de corrección por compresibilidad Fpv:
+
+
+
+Donde:
+
+Ze: factor de compresibilidad a condiciones estándar.
+
+Zm: factor de compresibilidad a condiciones medidas.
+
+Este factor se considerará igual a 1 para presiones inferiores a 7 bares en el medidor del Usuario.
+
+PARÁGRAFO. El informe del Ideam “Promedios Climáticos” se encuentra ingresando en la página web de dicha entidad y es responsabilidad del Comercializador la descarga de este archivo o de aquellos que lo modifiquen, adicionen o sustituyan.
+
+Ir al inicio
+ARTÍCULO 14. Modifíquese el numeral 5.48 del Capítulo V.5.14 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995, el cual quedará así:
+
+5.48. Los Usuarios podrán instalar un medidor adicional, con el objeto de monitorear o evaluar su propio consumo para efectos contables y para verificar los consumos de gas.
+
+Ir al inicio
+ARTÍCULO 15. Modifíquese el numeral 5.49 del Capítulo V.5.15 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995, el cual quedará así:
+
+5.49. El Sistema de medición que se instale para la verificación de la medición del consumo, adicional al Sistema de Medición, podrá ser de propiedad del Distribuidor, del Comercializador o del Usuario, dependiendo de lo que se establezca en el contrato. Adicionalmente, el Usuario actuando conjuntamente con el Distribuidor o el Comercializador podrán instalar, mantener y operar, a su cargo, el componente del Sistema de Medición que desee, previa autorización del Distribuidor o del Comercializador, y siempre y cuando tal equipo no interfiera con la operación del Sistema de Medición del Distribuidor o el Comercializador en el punto de entrega o cerca del mismo.
+
+Ir al inicio
+ARTÍCULO 16. Modifíquese el numeral 5.50 del Capítulo V.5.16 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995, el cual quedará así:
+
+5.50. Antes de instalar cualquier Sistema de medición para la verificación de la medición del consumo, el Usuario deberá contactar al Distribuidor de modo que éstos puedan determinar si el componente del Sistema de Medición propuesto puede ocasionar una caída de presión en las instalaciones del Usuario. En caso de considerarlo necesario, el Distribuidor podrá solicitar al Usuario o Comercializador que presente planos detallados y especificaciones relativas a la instalación propuesta. En caso de que el Distribuidor compruebe que podría producirse una caída significativa en la presión, rechazará la instalación propuesta.
+
+Ir al inicio
+ARTÍCULO 17. Modifíquese el numeral 5.53 del Capítulo V.5.16 del Anexo General del Código de Distribución adoptado mediante Resolución CREG 067 de 1995, el cual quedará así:
+
+5.53. El usuario será responsable del cuidado de los Sistemas de Medición, bien sean de su propiedad, del Distribuidor o del Comercializador. Esta responsabilidad del Usuario incluirá, a título enunciativo, demandas por daños y perjuicios ocasionados por la presencia, instalación o falta de seguridad en la operación de dicho dispositivo por parte del Usuario, reclamos por facturación inadecuada, honorarios de abogados y costos conexos.
+
+Ir al inicio
+ARTÍCULO 18. <Ver modificaciones a este artículo directamente en la Resolución 67 de 1995> Adiciónese el siguiente numeral 5.62 al Código de Distribución, en el título V.6.3 Cálculo de pérdidas:
+
+5.62. Para las pérdidas en el Sistema de Distribución, el Distribuidor o el Comercializador determinará el porcentaje de pérdidas con base en la siguiente expresión:
+
+
+
+pm : Es el porcentaje de pérdidas en el sistema de distribución aplicable en el mes m de facturación.
+
+Vusuario,m-j: Es la sumatoria de los volúmenes en (m3) facturados a los Usuarios en el mes m-j, corregidos por compresibilidad, y a condiciones estándar de presión y temperatura.
+
+Vm-j,k : Es el volumen de gas combustible medido en el mes m-j en las Estaciones de Puerta de Ciudad y/o puntos de inyección k al Sistema de Distribución, expresados en metros cúbicos (m3), corregido por compresibilidad y a condiciones estándar de presión y temperatura.
+
+n: Es el número total de puertas de ciudad y/o puntos de inyección.
+
+El valor a trasladar al Usuario final será el resultado de aplicar la anterior fórmula, en caso de que el resultado sea un valor negativo se acota a un valor de cero, por el contrario sí el resultado es un valor positivo se trasladará hasta un máximo del 3.7%. En las áreas de servicio exclusivo se trasladará hasta un máximo del 4%.
+
+El valor de pérdidas en el Sistema de Distribución se calcula para todo el volumen de gas que ingresa al mismo.
+
+PARÁGRAFO. La Dirección Ejecutiva de la CREG, a través de la expedición de una circular, solicitará la información que considere pertinente para el cálculo del índice de pérdidas en el Sistema de Distribución de Gas Natural por Redes. La omisión del envío de la información solicitada en tiempo, será tratada de acuerdo con lo dispuesto en el inciso final del artículo 73 de la Ley 142 de 1994, o aquella que la modifique, adicione o sustituya.
+
+Concordancias
+Doctrina Concordante
+Ir al inicio
+ARTÍCULO 19. TRANSICIÓN. <Artículo -concretamente el literal c)- modificado por el artículo 1 de la Resolución 185 de 2014. El nuevo texto es el siguiente:> La presente resolución contará con los siguientes periodos de transición:
+
+a) Los artículos 11 y 12 entrarán en vigencia a partir del 1o de enero del 2014 y el artículo 13 a partir de la entrada en vigencia del Reglamento de Instalaciones Internas de Gas Combustible, Resolución 9-0902 del 2013 expedida por el Ministerio de Minas y Energía.
+
+b) A partir de mayo del 2014 deberá estar implementado el cálculo del indicador de pérdidas conforme a lo propuesto en la presente resolución.
+
+c) A partir del 1o de abril de 2015 se aplicará este cálculo para efectos tarifarios. Para la facturación de los meses de enero a diciembre de 2014 y enero a marzo de 2015 se aplicará un indicador de pérdidas en las áreas de servicio no exclusivo del 3.7% y en las áreas de servicio exclusivo del 4%.
+
+d) A partir de los 18 meses de entrada en vigencia de la presente resolución se debe contar con la clasificación de los domicilios en rangos de 200 m de altitud sobre el nivel del mar. Durante este periodo el distribuidor podrá tomar como referencia para la(s) altura(s) sobre el nivel del mar la altura que reporta el Ideam por cada municipio.
+
+Los Usuarios con la obligación de contar con el Equipo de Telemetría, contemplada en la presente resolución, que a la fecha de entrada en vigencia de la presente resolución no cuenten con estos equipos, tendrán un plazo de seis meses para efectuar su instalación y puesta en operación.
+
+Notas de Vigencia
+Concordancias
+Doctrina Concordante
+Legislación Anterior
+Ir al inicio
+ARTÍCULO 20. VIGENCIAS Y DEROGATORIAS. La presente Resolución rige a partir de la fecha de su publicación en el Diario Oficial y deroga el numeral 5.37 y 5.38 del Anexo General de la Resolución CREG 067 de 1995 y todas las normas que le sean contrarias.
+
+Publíquese y cúmplase.
+
+Dada en Bogotá, D. C., a 20 de septiembre de 2013.
+
+El Presidente,
+
+AMILCAR DAVID ACOSTA MEDINA,
+
+Ministro de Minas y Energía.
+
+El Director Ejecutivo.
+
+GERMÁN CASTRO FERREIRA,
+
+Ir al inicio
+Reducir
+Normal
+Aumentar
+
+IR ARRIBA
+
+
+Gestor Normativo de la Comisión de Regulación de Energía y Gas - Alejandría
+ISBN 978-958-98069-2-0
+Última actualización:  31 de marzo de 2023 (Diario Oficial No. 52.342 de 20 de marzo de 2023)
+Control de versiones
+Créditos y reserva de derechos de autor
+Comisión de Regulación de Energía y Gas CREG - DRA © 2019 a 2021

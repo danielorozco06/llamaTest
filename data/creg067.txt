@@ -1,0 +1,1614 @@
+
+
+GESTOR NORMATIVO - ALEJANDRÍA
+
+
+AYUDA
+
+BUSCAR
+Resolución 67 de 1995 CREG
+ANOTACIONES
+ANOTACIONES
+Reducir
+Normal
+Aumentar
+IMPRIMIR
+DESCARGAR
+ANEXOS
+Búsqueda
+BUSCAR
+Índice
+ÍNDICE
+Memoria
+MEMORIA
+Buscar
+Puede realizar búsquedas exactas dentro de este documento, ingrese el texto a buscar en la siguiente casilla:
+
+Ingrese texto exacto
+
+
+RESOLUCIÓN 67 DE 1995
+
+(diciembre 21)  
+
+Diario Oficial No. 42.175 de 3 de enero de 1996
+
+COMISION DE REGULACION DE ENERGIA Y GAS
+
+Por la cual se establece el Código de Distribución de Gas Combustible por Redes.
+
+Resumen de Notas de Vigencia
+Concordancias
+ LA COMISION DE REGULACION DE ENERGIA Y GAS
+
+en ejercicio de sus atribuciones constitucionales y legales, en especial las contenidas las conferidas por la Ley 142 de 1994 y en desarrollo de los Decretos 1524 y 2253 de 1994, y
+
+CONSIDERANDO:
+
+Que el cuerpo técnico de la Comisión elaboró un proyecto de Código de Distribución de Gas Combustible por Redes, el cual fue discutido ampliamente con las empresas distribuidoras de gas en Colombia;
+
+Que la Comisión de Regulación de Energía y Gas en su sesión del 21 de diciembre de 1995 estudió y aprobó el Código de Distribución de Gas Combustible por Redes;
+
+RESUELVE:
+
+ARTICULO 1o. Adoptar el Código de Distribución de Gas Combustible por Redes contenido en el Anexo General de la presente resolución.
+
+Ir al inicio
+ARTICULO 2o. VIGENCIA. La presente resolución rige a partir de la fecha de su publicación en el Diario Oficial y deroga las disposiciones que le sean contrarias.
+
+ COMUNIQUESE, PUBLIQUESE Y CUMPLASE
+
+Dada en Santafé de Bogotá, D.C., el día 21 de diciembre de 1995
+
+Ministro de Minas y Energía  
+
+RODRIGO VILLAMIZAR ALVARGONZALEZ
+
+Presidente
+
+ANTONIO BARBERENA S.
+
+Director Ejecutivo (e)
+
+ANEXO GENERAL.
+
+CODIGO DE DISTRIBUCION DE GAS COMBUSTIBLE POR REDES.
+
+ 
+
+<NOTA: Ver contenido através del programa (botón F3)>
+
+CONTENIDO
+
+I. INTRODUCCIÓN  
+
+I.1 PROPÓSITO DEL CÓDIGO  
+
+I.2 APLICACIÓN DEL CÓDIGO DE DISTRIBUCIÓN  
+
+I.3 ALCANCE DEL CÓDIGO DE DISTRIBUCIÓN  
+
+II. LINEAMIENTOS GENERALES DE DISTRIBUCIÓN DE GAS COMBUSTIBLE POR REDES  
+
+II.1 NORMAS TÉCNICAS APLICABLES  
+
+II.2 CONSIDERACIONES TÉCNICAS  
+
+II.2.1 Clasificación y características de los gases.  
+
+II.2.2 Clasificación de las instalaciones según la presión de servicios.  
+
+II.2.3 Especificaciones mínimas de calidad del gas combustible.  
+
+II.2.4 Calidad de los materiales de construcción.  
+
+II.2.5 Redes de distribución.  
+
+II.2.6 Las tuberías y sus accesorios.  
+
+II.2.7 Instalaciones receptoras de los usuarios y aparatos de utilización para el empleo de gas combustible.  
+
+II.2.8 Sistemas de control y supervisión.  
+
+II.2.9 Mantenimiento de la información de redes.  
+
+II.2.10 Puesta en servicio, reconocimiento y prueba.  
+
+II.3 NORMAS AMBIENTALES  
+
+III. SISTEMA DE INFORMACIÓN Y PLANEAMIENTO DE LA EXPANSIÓN DE LA RED DE DISTRIBUCIÓN  
+
+III.1 INTRODUCCIÓN  
+
+III.2 PRINCIPIOS BÁSICOS  
+
+III.3 PLANEAMIENTO DE LA EXPANSIÓN  
+
+III.4 PROCEDIMIENTOS PARA EL PLANEAMIENTO DE LA EXPANSIÓN  
+
+III.4.1 Proyecciones de demanda.  
+
+III.4.2 Procedimiento para la elaboración del plan de expansión.  
+
+III.4.3 Costos y estructura de cargos.  
+
+III.4.4 Comunicación a los usuarios.  
+
+III.5 LISTADO DE DATOS REQUERIDOS PARA LA PLANEACIÓN DE LA EXPANSIÓN  
+
+III.5.1 Productores.  
+
+III.5.2 Transportadores  
+
+III.5.3 Sistema de distribución.  
+
+III.5.4 Descripción del mercado.  
+
+III.5.5 Factibilidad de nuevas conexiones.  
+
+III.5.6 Información básica plan de expansión.  
+
+IV. CONDICIONES DE CONEXIÓN  
+
+IV.1 INTRODUCCIÓN  
+
+IV.2 PRINCIPIOS BÁSICOS  
+
+IV.3 OBTENCIÓN DEL SERVICIO  
+
+IV.3.1 Solicitud de servicio.  
+
+IV.3.2 Servicios y condiciones especiales.  
+
+IV.3.3 Liquidación de deudas anteriores.  
+
+IV.3.4 Conexiones del servicio.  
+
+IV.3.5 Permisos y certificados.  
+
+IV.4 PROCEDIMIENTOS  
+
+IV.4.1 Reglas generales.  
+
+IV.4.2 Modificación en las instalaciones existentes.  
+
+IV.4.3 Instalación.  
+
+IV.5 CRITERIOS TÉCNICOS DE DISEÑO  
+
+IV.5.1 Normas y especificaciones de diseño.  
+
+IV.5.2 Suficiencia y seguridad de la instalación del usuario.  
+
+IV.5.3 Contrapresión o succión.  
+
+IV.5.4 Mantenimiento de la instalación del usuario.  
+
+IV.5.5 Medición y equipos de medición.  
+
+V. CONDICIONES DE OPERACIÓN DEL SISTEMA DE DISTRIBUCIÓN DE GAS POR REDES.  
+
+V.1 INTRODUCCIÓN  
+
+V.2 PROVISIONES GENERALES PARA EL PLANEAMIENTO OPERATIVO  
+
+V.3 CARACTERÍSTICAS DEL SERVICIO  
+
+V.3.1 Continuidad del servicio.  
+
+V.3.2 Emergencia.  
+
+V.3.3 Atención de emergencias.  
+
+V.3.4 Limitaciones  
+
+V.3.5 Fuerza mayor o caso fortuito.  
+
+V.4 CAUSAS DE SUSPENSIÓN O TERMINACIÓN  
+
+V.4.1 Atribuibles al distribuidor.  
+
+V.4.2 Atribuibles al usuario.  
+
+V.4.3 Por renuncias.  
+
+V.4.4 Restitución del servicio.  
+
+V.4.5 Restricción o interrupción.  
+
+V.5 PROCEDIMIENTO PARA LA OPERACIÓN DEL SISTEMA DE DISTRIBUCIÓN  
+
+V.5.1 Revisión a las instalaciones y medidores del usuario.  
+
+V.5.2 Autorización para la conexión de gas.  
+
+V.5.3 Instalación del equipo de medición.  
+
+V.5.4 Ajuste y mantenimiento del equipo de medición.  
+
+V.5.5 Comprobación de medición y equipo de medición.  
+
+V.5.6 Comprobación y ajuste de medidor y equipo de medición.  
+
+V.5.7 Consumo.  
+
+V.5.8 Determinación de los volúmenes de gas entregados.  
+
+V.5.9 Determinación del poder calórico.  
+
+V.5.10 Facturación.  
+
+V.5.11 Lectura de conexión.  
+
+V.5.12 Lectura final.  
+
+V.5.13 Lectura del medidor.  
+
+V.5.14 Verificación de medición.  
+
+V.5.15 Instalación de equipo de verificación de medición.  
+
+V.5.16 Responsabilidad del usuario.  
+
+V.5.17 Sellos y trabas.  
+
+V.5.18 Incumplimiento de especificaciones.  
+
+V.5.19 Cargo por devolución de cheque.  
+
+V.5.20 Cargo de reconexión.  
+
+V.5.21 Ajuste y reparación de dispositivos.  
+
+V.6 ESPECIFICACIONES DE CALIDAD MÍNIMAS DEL SUMINISTRO  
+
+V.6.1 Poder calórico, calidad del gas y odorización.  
+
+V.6.2 Fluctuaciones en la presión de suministro.  
+
+VI. DEFINICIONES  
+
+VII. CONDICIONES GENERALES  
+
+VII.1 PROCEDIMIENTOS  
+
+VII.1.1 Aplicación.  
+
+VII.1.2 Revisión del Código.  
+
+VII.1.3 Divulgación de las determinaciones, revisiones y noticias.  
+
+VII.1.4 Acceso no discriminatorio.  
+
+VII.1.5 Reclamos por errores de facturación y otros.  
+
+VII.1.6 Atención al cliente.  
+
+VII.2 GRANDES CONSUMIDORES CONECTADOS AL SISTEMA DE DISTRIBUCIÓN.  
+
+I. INTRODUCCIÓN.
+
+Este Código acoge el Decreto 1842 de 1991 (Estatuto Nacional de Usuarios) y demás normas que consagren derechos a favor de los usuarios, siempre que no contradigan la Ley 142 de 1994.
+
+I.1 PROPÓSITO DEL CÓDIGO.
+
+1.1. El propósito de este código de distribución es:
+
+- Definir los derechos y responsabilidades entre distribuidores, comercializadores y usuarios.
+
+- Fijar los principios y procedimientos que definen las relaciones entre los diferentes usuarios de los sistemas de distribución, los comercializadores y los distribuidores.
+
+- Establecer los criterios de planeación de los sistemas de distribución de gas combustible por redes, en condiciones de eficiencia y seguridad, para la determinación de las fórmulas tarifarias.
+
+- Garantizar la prestación continua e ininterrumpida del servicio, sin excepción alguna, salvo cuando existan razones de fuerza mayor o caso fortuito, o de orden técnico o económico que así lo exijan.
+
+- Garantizar que todos los usuarios conectados, en proceso de conexión o que proyecten conectarse a los sistemas de distribución, tengan los mismos derechos y deberes y las mismas condiciones de calidad, confiabilidad, continuidad y seguridad en el servicio, manteniendo el principio de neutralidad. Dicho principio exige, dentro de las mismas condiciones, un tratamiento igual para los usuarios, sin discriminaciones diferentes a las condiciones y características técnicas de la prestación del servicio.
+
+- Fijar unos lineamientos mínimos que sirvan de marco de referencia a las empresas para la elaboración de los contratos de condiciones uniformes exigidos por la Ley 142 de 1994.
+
+I.2 APLICACIÓN DEL CÓDIGO DE DISTRIBUCIÓN.
+
+1.2. El Código de Distribución de gas combustible se aplica a pequeños y grandes consumidores, distribuidores y comercializadores de gas combustible por redes. Entendiéndose como gas combustible aquel de las primera, segunda y tercera familias (Normas Técnicas Colombianas).
+
+I.3 ALCANCE DEL CÓDIGO DE DISTRIBUCIÓN.
+
+1.3. El Código de Distribución comprende los siguientes aspectos:
+
+Planeación de las inversiones.
+
+Tiene por objeto inducir la expansión eficiente, económica y confiable de un sistema de distribución, a través del establecimiento de:
+
+- Las obligaciones y responsabilidades de los distribuidores.
+
+- La obligación de elaborar y mantener actualizado un programa de inversiones dirigido al desarrollo del sistema de distribución.
+
+- Los criterios para el planeamiento y la expansión del sistema de distribución.
+
+- Los horizontes de planeación de las inversiones.
+
+Condiciones de conexión.
+
+Tanto las conexiones nuevas como las existentes deben cumplir con:
+
+- Las directrices para determinar las fronteras, en el sistema de distribución, entre el distribuidor y el usuario y la relación entre el distribuidor y el comercializador, cuando esto fuera necesario.
+
+- Las obligaciones del distribuidor de realizar los estudios necesarios con relación a las modificaciones y refuerzos requeridos para una nueva conexión al sistema de distribución, o para modificar una conexión existente.
+
+Operación del sistema de distribución.
+
+Proporciona las reglas que cubren los aspectos más importantes para la operación de un sistema de distribución, mediante la especificación de:
+
+- La obligación de elaborar un plan de operación y mantenimiento.
+
+- Las obligaciones y los criterios básicos para el plan de atención de contingencias, coordinación de seguridad y pruebas de equipos y redes.
+
+- La obligación del distribuidor o del comercializador de mantener un sistema de información que le permita con certeza presentar variadas opciones de servicio a sus usuarios, dependiendo de sus necesidades.
+
+Sistema de medición.
+
+Establece los procedimientos y requisitos de equipos e información necesarios tanto para la facturación del usuario del sistema de distribución, como para los demás fines pertinentes. Se incluyen reglas relativas a fallas en el suministro del servicio.
+
+Normas técnicas y de seguridad.
+
+Se hace referencia a aquellas normas necesarias para la operación de las redes, tomando en consideración la compilación del Código de Normas Técnicas y de Seguridad por parte del Ministerio de Minas y Energía.
+
+II. LINEAMIENTOS GENERALES DE DISTRIBUCIÓN DE GAS COMBUSTIBLE POR REDES.
+
+II.1 NORMAS TÉCNICAS APLICABLES.
+
+2.1. Para los efectos pertinentes a este Código, todo distribuidor o usuario del sistema de distribución, deberá cumplir como mínimo con las Normas Técnicas Colombianas expedidas para el efecto. En caso de no existir normas colombianas, se emplearán normas de reconocido prestigio internacional y aceptadas por el Ministerio de Minas y Energía, el cual las compilará en un Código de Normas Técnicas y de Seguridad.
+
+2.2. En materia de seguridad, deberá acogerse al Código Normas Técnicas y de Seguridad en Gas Combustible compilado por el Ministerio de Minas y Energía y atoda la reglamentación que en la materia expida el Ministerio de Minas y Energía y la CREG.
+
+Doctrina Concordante
+2.3. Las instalaciones de gas afectadas por el presente reglamento deberán cumplir:
+
+- Los preceptos que le sean de aplicación contenidos en las disposiciones dictadas o que se dicten por el Ministerio de Minas y Energía, bien sean de carácter general o bien se trate de reglamentos especiales.
+
+- Las especificaciones sobre normalización, relativas a materiales y aparatos destinados a instalaciones de gas de cualquier clase que obtengan la homologación o aprobación de las autoridades competentes.
+
+- Las normas técnicas sobre los requisitos que deben cumplir las instalaciones en edificios habitados y la forma de utilización para lograr una buena prestación del servicio.
+
+2.4. Las condiciones técnicas de los aparatos, accesorios, materiales, montaje, calidad, protección y seguridad que han de reunir las conexiones de gas a que se refiere este reglamento serán objeto de instrucciones o Normas Técnicas Colombianas y sus revisiones, o en su defecto las normas internacionales que regulan la materia y aceptadas por el Ministerio de Minas y Energía.
+
+2.5. Las normas ambientales a las que deberán acogerse las empresas distribuidoras, y en general todos aquellos a los cuales aplique este Código, serán aquellas expedidas por el Ministerio del Medio Ambiente, de conformidad con lo dispuesto en el artículo 4o, numerales 10 y 25 de la Ley 99 de 1994<sic, 1993>.
+
+Doctrina Concordante
+II.2 CONSIDERACIONES TÉCNICAS.
+
+II.2.1 CLASIFICACIÓN Y CARACTERÍSTICAS DE LOS GASES.
+
+2.6. Los gases combustibles se clasifican en familias de acuerdo con lo establecido en las Norma Técnica Colombiana respectiva (ver Código de Normas Técnicas y de Seguridad).
+
+2.7. Las características de los gases serán aquellas que los identifiquen para su utilización como combustibles y, entre otras, las de composición química, poder calorífico superior, poder calorífico inferior, índice de Wobbe y de combustión, densidad, olor, toxicidad, corrosión y humedad.
+
+II.2.2 CLASIFICACIÓN DE LAS INSTALACIONES SEGÚN LA PRESIÓN DE SERVICIOS.
+
+2.8. Según la presión máxima de servicios que admitan, deben clasificarse con lo establecido en la Norma Técnica Colombiana respectiva (Código de Normas Técnicas y de Seguridad).
+
+2.9. Para la expansión de la red, el distribuidor deberá tener en cuenta los requerimientos de presiones en la Norma Técnica Colombiana respectiva.
+
+II.2.3 ESPECIFICACIONES MÍNIMAS DE CALIDAD DEL GAS COMBUSTIBLE.
+
+2.10. En resolución aparte, la CREG definirá las calidades mínimas del gas combustible. El distribuidor deberá rechazar el gas que no cumpla con las especificaciones de calidad mínimas.
+
+Concordancias
+II.2.4 CALIDAD DE LOS MATERIALES DE CONSTRUCCIÓN.
+
+2.11. Las tuberías, equipos, materiales y accesorios utilizados en todos los sistemas de distribución, deberán cumplir como mínimo con las Normas Técnicas Colombianas y sus revisiones, o en su defecto las normas internacionales que regulan la materia y aceptadas por el Ministerio de Minas y Energía.
+
+II.2.5  REDES DE DISTRIBUCIÓN.
+
+2.12. Las redes de distribución se proyectarán, ejecutarán y operarán en función del plan de expansión presentado para la definición de la fórmula tarifaria, o en la licitación de concesiones o áreas de distribución exclusivas, y deberán considerar las necesidades del momento, las previsiones deducidas del crecimiento vegetativo, y el desarrollo económico y social dentro del área cubierta por la concesión.
+
+2.13. El distribuidor o el comercializador solo podrán negar las solicitudes de servicio por razones de carácter técnico.
+
+Doctrina Concordante
+II.2.6 LAS TUBERÍAS Y SUS ACCESORIOS.
+
+2.14. El cálculo de las tuberías y de los elementos accesorios se hará teniendo en cuenta las características físico-químicas del gas, la presión del servicio, las pérdidas de carga admisibles y cuantas garantías de seguridad y diseño se requieran, tal como se establece en la Norma Técnica Colombiana respectiva (Código de Normas Técnicas y de Seguridad).
+
+Doctrina Concordante
+2.15. No estará permitida la práctica de adosar redes aéreas a puentes vehiculares o peatonales. Estos cruces aéreos se deben realizar mediante la construcción de estructuras separadas.
+
+Doctrina Concordante
+2.16. El transporte, colocación y montaje de las tuberías y elementos auxiliares o complementarios, constitutivos de un gasoducto y arterias o de una red de distribución urbana deberá realizarse de forma que no resulten afectadas las condiciones de seguridad previstas en el Código de Normas Técnicas y de Seguridad.
+
+Doctrina Concordante
+2.17. La CREG trasladará las quejas o incumplimientos relacionados con las anteriores especificaciones y reglas a la Superintendencia de Servicios Públicos.
+
+Doctrina Concordante
+II.2.7 INSTALACIONES RECEPTORAS DE LOS USUARIOS Y APARATOS DE UTILIZACIÓN PARA EL EMPLEO DE GAS COMBUSTIBLE.
+
+2.18. La Superintendencia de Industria y Comercio emitirá normas de homologación de todos los tipos de aparatos para el empleo de los gases combustibles, realizándose las pruebas o ensayos oportunos en los laboratorios autorizados por ella para tal efecto, no pudiendo emplearse en ninguna instalación de aquellos que no hayan obtenido resultados satisfactorios en su homologación.
+
+2.19. Toda instalación deberá cumplir con las normas técnicas y de seguridad correspondientes. El distribuidor no podrá distribuir gas natural o GLP en ninguna instalación interna o tanque estacionario de almacenamiento que no cumpla con estas normas. De hacerlo así, se hará acreedor a las sanciones correspondientes que determine la Superintendencia de Servicios Públicos, sin perjuicio de las sanciones civiles o penales a que haya lugar.
+
+II.2.8 SISTEMAS DE CONTROL Y SUPERVISIÓN.
+
+2.20. Para prever situaciones de riesgo se exigirá el montaje de válvulas de seccionamiento de gasoductos, preferiblemente con actuadores automáticos que respondan a roturas de la línea.
+
+2.21. Se deben implementar sistemas de supervisión continua en las líneas de alta presión, tomando en cuenta los siguientes factores:
+
+- Alta densidad de población.
+
+- Dificultad de operación (largas distancias, tráfico).
+
+- Riesgo sísmico.
+
+II.2.9 MANTENIMIENTO DE LA INFORMACIÓN DE REDES.
+
+2.22. Con el fin de minimizar las interferencias o los riesgos que se puedan generar en una ciudad por falta de información de las redes construidas, las empresas deberán llevar un registro claro y preciso del trazado de los gasoductos urbanos construidos, utilizando la tecnología a su alcance. Se recomienda el empleo de los llamados “mapas digitales” por parte de la empresa. Esta información deberá mantenerse disponible y actualizada en permanencia. El cumplimiento de esta norma será vigilado por la Superintendencia de Servicios Públicos.
+
+II.2.10 PUESTA EN SERVICIO, RECONOCIMIENTO Y PRUEBA.
+
+2.23. <Numeral modificado por el artículo 3 de la Resolución 59 de 2012. El nuevo texto es el siguiente:> Las instalaciones, antes de ser puestas en servicio, deberán contar con un Certificado de Conformidad emitido según lo señalado en los reglamentos técnicos aplicables, para lo cual se someterán a las pruebas de hermeticidad, escapes y funcionamiento y en general a todas aquellas que establezcan los reglamentos, normas o instrucciones vigentes. La realización de estas pruebas será responsabilidad del usuario y este la deberá realizar con los organismos que se encuentran debidamente acreditados para la realización de la Revisión Periódica de las Instalaciones Internas de Gas. El usuario asumirá el costo de dicha revisión.
+
+PARÁGRAFO. Hasta que termine la vigencia de los contratos de concesión especial para la prestación del servicio público domiciliario de distribución de gas natural por red de tubería en forma exclusiva en las áreas que a la fecha de publicación de la presente resolución se encuentran concesionadas, se aplicará lo siguiente:
+
+“2.23 Las instalaciones, antes de ser puestas en servicio, deberán someterse a las pruebas de hermeticidad, escapes y funcionamiento, y en general a todas aquellas que establezcan los reglamentos, normas o instrucciones vigentes. Pruebas que deberá realizar el distribuidor. El costo de la prueba estará incluido en el cargo de conexión (Resolución 039 del 23 de octubre de 1995)”.
+
+Notas de Vigencia
+Doctrina Concordante
+Legislación Anterior
+2.24. <Numeral modificado por el artículo 4 de la Resolución 59 de 2012. El nuevo texto es el siguiente:> El distribuidor será responsable por el estricto cumplimiento de las normas de seguridad, protección al medio ambiente y urbanísticas en sus redes. Adicionalmente, será el responsable de prestar el servicio sólo a las instalaciones receptoras de los usuarios que cumplan con los requisitos mínimos de seguridad. Para tal efecto constatará que dichas instalaciones cuenten con el respectivo Certificado de Conformidad y llevará un registro de las mismas con sus respectivos Certificados de Conformidad. En caso que el distribuidor haga las revisiones previas y periódicas de que tratan los numerales 2.23 y 5.23 de este Código, podrá cobrar un cargo”.
+
+PARÁGRAFO. Hasta que termine la vigencia de los contratos de concesión especial para la prestación del servicio público domiciliario de distribución de gas natural por red de tubería en forma exclusiva en las áreas que a la fecha de publicación de la presente resolución se encuentran concesionadas, se aplicará lo siguiente:
+
+“El distribuidor será responsable por el estricto cumplimiento de las normas de seguridad, protección al medio ambiente y urbanísticas en sus redes. Adicionalmente, será el responsable de que las instalaciones receptoras de los usuarios cumplan con los requisitos mínimos de seguridad, haciendo para tal efecto las pruebas correspondientes, llevando un registro de las mismas. Para pruebas posteriores a la de conexión, el distribuidor podrá cobrar un cargo”.
+
+Notas de Vigencia
+Concordancias
+Legislación Anterior
+2.25. <Numeral modificado por el artículo 5 de la Resolución 59 de 2012. El nuevo texto es el siguiente:> Cuando el usuario prevea realizar modificaciones a sus instalaciones que afecten el tamaño, capacidad total, o método de operación del equipamiento, deberá dar aplicación a lo establecido en el numeral 4.18 de este código.
+
+En todo caso, ante cualquier modificación de la Instalación Interna, el usuario deberá contratar personal calificado conforme a las normas o reglamentos técnicos vigentes y procederá a hacer revisar la instalación de manera inmediata con el fin de obtener el Certificado de Conformidad requerido y asegurarse de que este llegue al Distribuidor”.
+
+PARÁGRAFO. Hasta que termine la vigencia de los contratos de concesión especial para la prestación del servicio público domiciliario de distribución de gas natural por red de tubería en forma exclusiva en las áreas que a la fecha de publicación de la presente resolución se encuentran concesionadas, se aplicará lo siguiente:
+
+“Cuando el usuario realice modificaciones en sus instalaciones, deberá notificar al distribuidor, el cual de considerarlo necesario realizará las pruebas del caso a cargo del usuario”.
+
+Notas de Vigencia
+Doctrina Concordante
+Legislación Anterior
+II.3 NORMAS AMBIENTALES.
+
+2.26.Las expedidas por el Ministerio del Medio Ambiente, de conformidad con lo dispuesto en el artículo 4o, numerales 10 y 25 de la Ley 99 de 1994<sic, 1993>. Adicionalmente aplica el Plan de Manejo Ambiental para compañías distribuidoras de gas combustible, especificado en el Decreto 1753 de 1994.
+
+Concordancias
+III. SISTEMA DE INFORMACIÓN Y PLANEAMIENTO DE LA EXPANSIÓN DE LA RED DE DISTRIBUCIÓN.
+
+III.1 INTRODUCCIÓN.
+
+3.1. El propósito de este capítulo es fijar unos lineamientos para el planeamiento de la expansión de una red de distribución y enunciar los requisitos para la recolección e intercambio de la información requerida en este Código.
+
+3.2. Estos lineamientos garantizan que todos los usuarios tengan las mismas normas básicas para la conexión al sistema de distribución, y además fija las obligaciones para que los distribuidores y comercializadores cumplan con lo dispuesto en este Código y demás normas complementarias.
+
+3.3. Por otro lado, se fijan las obligaciones del distribuidor, para ejecutar los estudios necesarios con relación a las modificaciones y refuerzos requeridos para una nueva conexión, para modificar una conexión, para hacer ofertas con relación a la distribución, o acuerdos de conexión y uso del sistema.
+
+III.2 PRINCIPIOS BÁSICOS.
+
+3.4. Los distribuidores deben planear, desarrollar, operar y mantener sus sistemas de distribución de acuerdo con este Código, y con las reglas generales que establezca la CREG.
+
+3.5. La expansión de los sistemas de distribución será responsabilidad de las empresas que desarrollen esta actividad y se deben realizar en condiciones competitivas, de acuerdo con lo previsto en el artículo 14 de la Ley 142 de 1994.
+
+3.6. Las empresas distribuidoras de gas combustible deberán garantizar que tanto la construcción como la expansión del sistema de distribución sean realizados cumpliendo las normas en cuanto a seguridad, medio ambiente, diseño, materiales y equipos utilizados con dicho propósito.
+
+Doctrina Concordante
+3.7. Cuando se desarrolle un sistema para distribución de propano por redes, la empresa distribuidora de gas combustible deberá realizar sus diseños de manera tal que pueda transportar en forma indiferente gas natural y propano(GLP).
+
+3.8. Toda instalación de gas propano (GLP), deberá diseñarse para que una vez entre en operación el gasoducto urbano, pueda formar parte integral de este y permita la conducción de gas natural.
+
+III.3 PLANEAMIENTO DE LA EXPANSIÓN.
+
+3.9. Con el fin de definir las fórmulas de tarifas de la empresa respectiva, para la expansión, reforma o modificaciones de los sistemas de distribución, la CREG utilizará la información de los planes quinquenales con la inversión prevista, que las empresas deben enviar a la UPME para su revisión y concepto, de forma tal que la inversión se recupere por medio de tarifas, de acuerdo con las resoluciones que para el efecto expida la CREG.
+
+3.10. Sin perjuicio de lo establecido en el inciso anterior, los distribuidores que tengan contratos con el MME deberán mantener las obligaciones, de realizar las obras de expansión pactadas, con sujeción al cronograma convenido.
+
+3.11. El distribuidor construirá, operará y mantendrá sus redes de distribución situadas en el espacio público (calles, carreteras o servidumbres utilizadas o utilizables como parte de su sistema de distribución), con sujeción a la reglamentación y disposiciones municipales.
+
+3.12. Para el estudio de la factibilidad técnica y económica de nuevas conexiones, los comercializadores y/o usuarios suministrarán al distribuidor la información requerida para que éste pueda ofrecerles alternativas técnicas y de costos. La información básica debe incluir, como mínimo, las condiciones técnicas de la carga que ha de ser conectada al sistema (volumen pico y fuera de pico demandado por el usuario), y los niveles de confiabilidad requeridos.
+
+3.13. Para la seguridad del sistema, el distribuidor escogerá los equipos de medición y regulación, los cuales deberán estar homologados por la Superintendencia de Industria y Comercio. El distribuidor los instalará, operará, y será responsable de su mantenimiento.
+
+III.4 PROCEDIMIENTOS PARA EL PLANEAMIENTO DE LA EXPANSIÓN.
+
+III.4.1 PROYECCIONES DE DEMANDA.
+
+3.14. El distribuidor deberá elaborar proyecciones de demanda para cada horizonte de planeación, incluyendo los consumos picos estimados, con el fin de definir la capacidad máxima a ser demandada anualmente en su sistema.
+
+3.15. En general, los horizontes de planeación se definen de la siguiente forma:
+
+- Corto Plazo: Período de hasta dos años, de carácter operativo, durante el cual el distribuidor estima los volúmenes de gas distribuidos por su sistema y realiza el análisis de alternativas de expansión.
+
+- Mediano Plazo: Período entre dos y cinco años, de carácter decisorio, donde el distribuidor toma una determinación sobre la alternativa de expansión a desarrollar.
+
+- Largo Plazo: Período de carácter estratégico, de cinco a diez o más años, donde el distribuidor, de acuerdo con la evolución de la demanda, establece su Plan de Expansión global.
+
+3.16. Exclusivamente para efectos de determinar la tarifa de distribución, la metodología para las proyecciones de demanda será determinada por el distribuidor, pero deberá ser revisada y aprobada por la UPME, antes de su aplicación. La CREG considerará los análisis y comentarios UPME sobre dicha metodología.
+
+III.4.2 PROCEDIMIENTO PARA LA ELABORACIÓN DEL PLAN DE EXPANSIÓN.
+
+3.17. El requerimiento de un plan de expansión al distribuidor obedece a la necesidad de atender en forma rentable, segura y eficiente la demanda, esto es, atendiendo las necesidades de los usuarios con un plan de mínimo costo, manejo óptimo de las pérdidas, respetando las normas técnicas y bajo estrictas normas de seguridad.
+
+3.18. Los planes de expansión deberán contener la información básica que se detalla en el capítulo III, Sistema de Información y Planeamiento de la Expansión de la Red de Distribución, junto con el cronograma de inversión. Este plan de expansión servirá como base para el estudio tarifario de la empresa.
+
+3.19. La UPME remitirá a la CREG, su evaluación del Plan de Expansión de cada empresa, con sus comentarios sobre la metodología utilizada, y el impacto de dicho Plan sobre las proyecciones del sector.  
+
+3.20. El distribuidor deberá presentar la alternativa de expansión escogida, junto con las otras alternativas consideradas y las justificaciones.
+
+3.21. Todas las alternativas deberán cumplir con:
+
+- Las proyecciones de demanda acordadas con la CREG y la UPME.
+
+- Los requisitos técnicos mínimos
+
+- Los requisitos de seguridad establecidos
+
+3.22. Además de estos requisitos, la opción escogida por el distribuidor para el plan de expansión deberá cumplir con los siguientes objetivos:
+
+- Deberá ser la opción de mínimo costo, incluyendo inversiones y costos de operación y mantenimiento.
+
+- Deberá ser la opción que minimice pérdidas para el sistema.
+
+- Deberá proveer flexibilidad para expansiones futuras.
+
+3.23. El distribuidor deberá proporcionar una metodología para demostrar que la opción escogida es óptima en términos de estos objetivos, justificando la relevancia relativa asignada a cada uno de estos. Esta metodología deberá incluir, la tasa de descuento con que se valoran costos e inversiones futuras.
+
+3.24. La UPME y la CREG podrán rechazar el plan si en su concepto no se presenta alguna de las siguientes condiciones:
+
+- Falta información.
+
+- Está en desacuerdo con la metodología utilizada.
+
+- No se estudiaron alternativas suficientes.
+
+3.25. La Comisión podrá escoger entre las propuestas presentadas la que a su juicio sea la mas conveniente. Si el plan es rechazado en su totalidad, el distribuidor deberá reiniciar el proceso y presentar otras propuestas.
+
+III.4.3 COSTOS Y ESTRUCTURA DE CARGOS.
+
+3.26. El distribuidor debe mantener actualizada la estructura de costos en que incurre para la prestación de su servicio. Deberá tener, igualmente, relacionada esta información con la estructura y nivel de cargos que hayan sido aprobados por la CREG.
+
+3.27. Toda esta información deberá estar disponible para ser suministrada a la CREG, cuando ésta lo requiera. De igual forma, los cargos de distribución aprobados por la CREG, serán difundidos por el distribuidor para conocimiento de los usuarios del sistema.
+
+3.28. La metodología para el cálculo de los cargos por uso de la red será la que establezca la CREG.
+
+III.4.4 COMUNICACIÓN A LOS USUARIOS.
+
+3.29. Los usuarios tienen derecho a conocer los planes de expansión de los sistemas de distribución, por lo que éstos serán de carácter público y deberán ser publicados de acuerdo con los procedimientos que establezca la CREG.
+
+III.5 LISTADO DE DATOS REQUERIDOS PARA LA PLANEACIÓN DE LA EXPANSIÓN.
+
+III.5.1 PRODUCTORES.
+
+- Localización del campo,
+
+- Tipo de gas,
+
+- Distribuidor,
+
+- Presión de salida,
+
+- Producción potencial en pico.
+
+III.5.2 TRANSPORTADORES.  
+
+- Presión de entrega,
+
+- Longitud del subsistema,
+
+- Diámetro (s),
+
+- Estaciones reguladoras que interconectan,
+
+- Número de ramales,
+
+- Volumen manejado (en pico y fuera de él),
+
+- Estaciones compresoras.
+
+III.5.3 SISTEMA DE DISTRIBUCIÓN.
+
+Estaciones reguladoras y reguladores
+
+- Localización,
+
+- Capacidad total,
+
+- Niveles de presión,
+
+- Año puesta en operación,
+
+- Válvulas de control,
+
+- Aparatos de control y medida y sus características,
+
+- Equipo de comunicación.
+
+Tubería
+
+- Presiones,
+
+- Materiales,
+
+- Tipo ( aérea o enterrada ),
+
+- Características de la tubería subterránea,
+
+- Diámetros,
+
+- Identificación de Nodos,
+
+- Topología,
+
+- Estación de regulación a la que pertenece,
+
+- Localización de válvulas e interruptores.
+
+III.5.4 DESCRIPCIÓN DEL MERCADO.
+
+3.30. Se busca tener un conocimiento general del mercado atendido por la distribuidora o la comercializadora. Se incluye:
+
+Características de los usuarios
+
+- Consumos de gas,
+
+- Estructura tarifaria.
+
+Evolución histórica del mercado
+
+- Número de usuarios,
+
+- Demanda máxima,
+
+- Curva de demanda diaria,
+
+- Pérdidas.
+
+III.5.5 FACTIBILIDAD DE NUEVAS CONEXIONES.
+
+3.31. El nuevo usuario debe suministrar la siguiente información:
+
+- Localización,
+
+- Tipo de consumo ( comercial, industrial, etc.),
+
+- Presión requerida,
+
+- Capacidad de transporte requerida,
+
+- Perfil de consumo,
+
+- Confiabilidad requerida,
+
+- Fecha de entrada en servicio.
+
+III.5.6 INFORMACIÓN BÁSICA PLAN DE EXPANSIÓN.
+
+- Confiabilidad del sistema ( Indicadores),
+
+- Estado de la red,
+
+- Restricciones operativas,
+
+- Regulación de las presiones,
+
+- Pérdidas,
+
+- Descripción de los usuarios,
+
+- Proyecciones de demanda.
+
+IV. CONDICIONES DE CONEXIÓN.
+
+IV.1 INTRODUCCIÓN.
+
+4.1. Este Capítulo incluye el conjunto normas básicas para la conexión al sistema de distribución, las cuales serán las mismas para todos los usuarios.
+
+Doctrina Concordante
+IV.2 PRINCIPIOS BÁSICOS.
+
+4.2. Garantizar que todos los usuarios del sistema de distribución estén sujetos a los mismos requisitos para la conexión y asegurar que tanto las conexiones existentes como las nuevas cumplen con las normas técnicas y de seguridad para el diseño y para la operación.
+
+4.3. Para los usuarios que al momento de la expedición de este Código estén conectados a un sistema de distribución, las condiciones existentes no podrán variar excepto en los casos en que el usuario requiera mayor confiabilidad a la establecida de manera general para los otros usuarios conectados al la red, o en el caso que la conexión esté afectando o interfiriendo con la operación y/o la seguridad del sistema.
+
+IV.3 OBTENCIÓN DEL SERVICIO.
+
+IV.3.1 SOLICITUD DE SERVICIO.
+
+4.4. El usuario indicará las condiciones bajo las cuales requiere el servicio y el distribuidor o el comercializador le establecerán las condiciones bajo las cuales lo suministrarán, sin perjuicio de las normas técnicas y de seguridad, y de lo establecido en este Código.
+
+4.5. Las empresas no realizarán trabajos para suministrar el servicio de gas en las viviendas de los barrios o municipios que no tengan una correcta nomenclatura.
+
+Doctrina Concordante
+IV.3.2 SERVICIOS Y CONDICIONES ESPECIALES.
+
+4.6. El distribuidor o el comercializador ofrecerán al usuario una selección de servicios y condiciones especiales, los cuales éste podrá aceptar o no. De igual manera el usuario podrá solicitar un servicio o condición especial acorde a sus necesidades.
+
+4.7. El distribuidor o el comercializador determinarán los servicios o condiciones especiales a disposición del usuario y le asesorarán en la selección de las condiciones más favorables a sus necesidades.
+
+Doctrina Concordante
+IV.3.3 LIQUIDACIÓN DE DEUDAS ANTERIORES.
+
+4.8. El distribuidor o el comercializador no suministrarán el servicio a ex-usuarios, hasta tanto se haya pagado o asegurado el pago de las deudas por algún servicio anterior.
+
+IV.3.4 CONEXIONES DEL SERVICIO.
+
+4.9. El usuario deberá pagar el costo de la conexión del servicio. Por aquellos trabajos o servicios prestados al usuario y que no estén expresamente reglamentados, el distribuidor cobrará el valor de los materiales, el costo de utilización de los equipos empleados y de la mano de obra utilizada, más una suma por concepto de administración e ingeniería.
+
+IV.3.5 PERMISOS Y CERTIFICADOS.
+
+4.10. El distribuidor solicitará los permisos necesarios para construir sus redes e instalar conexiones de servicio y no estará obligado a prestar el servicio hasta tanto se le concedan dichos permisos. En todos los casos deberán observarse las normas urbanísticas y disposiciones municipales sobre redes del servicio.
+
+4.11. Cuando el distribuidor o el comercializador requieran, para la conexión del servicio la utilización de predios privados para el tendido de las redes, deberán contar con la correspondiente servidumbre o derechos de paso en los términos del artículo 57 de la Ley 142 de 1994.
+
+Doctrina Concordante
+IV.4 PROCEDIMIENTOS.
+
+IV.4.1 REGLAS GENERALES.
+
+4.12. El distribuidor estará obligado a aceptar toda solicitud de conexión a la red de distribución existente, siempre que la misma se realizare bajo los términos de este Código y de acuerdo con el régimen tarifario vigente. Si el distribuidor deniega una solicitud deberá notificar a la autoridad reguladora y tal decisión estará sujeta a la revisión de dicha autoridad.
+
+Doctrina Concordante
+4.13. Los elementos necesarios para la acometida, según lo definido en el artículo 14.17 de la Ley 142 de 1994, deberán ser suministrados por el distribuidor e instalados por él mismo. Los elementos y su instalación, por personal habilitado de la empresa (Resolución 039 del 23 octubre de 1995), estarán a cargo del usuario. Estos equipos, incluyendo el medidor, serán de propiedad del usuario. El usuario deberá pagar el costo de todo el equipo de conexión requerido para su servicio y el costo de su instalación.
+
+4.14. Los elementos necesarios para la instalación interna, según lo definido en la Ley 142 de 1994, podrán ser suministrados por el distribuidor e instalados por él mismo o por cualquier otro personal autorizado y registrado en la empresa. No será negocio exclusivo del distribuidor y serán instalados a cargo del usuario (Resolución 039 del 23 octubre de 1995).
+
+Doctrina Concordante
+4.15. El usuario consultará al distribuidor respecto al punto exacto en el cual la tubería del servicio ingresará al predio, antes de instalar la tubería interior de gas o de comenzar cualquier trabajo que dependa de la ubicación de la tubería del servicio o de las restricciones físicas en la calle y otras consideraciones prácticas.
+
+IV.4.2 MODIFICACIÓN EN LAS INSTALACIONES EXISTENTES.
+
+4.16. La modificación en la ubicación de la tubería de servicio existente y/o instalaciones de medición solicitada por el usuario debe ser sometida a consideración de la empresa distribuidora. En caso de ser aprobada se realizará con cargo al usuario. En caso de no ser aprobada, la empresa deberá notificar al Usuario exponiendo las razones del caso.
+
+IV.4.3 INSTALACIÓN.
+
+4.17. El usuario será responsable de proteger las redes del distribuidor en sus predios.
+
+4.18. Ninguna modificación en el tamaño, capacidad total, o método de operación del equipamiento del usuario, se efectuará sin aviso previo y aprobación por escrito de la empresa distribuidora.
+
+IV.5 CRITERIOS TÉCNICOS DE DISEÑO.
+
+IV.5.1 NORMAS Y ESPECIFICACIONES DE DISEÑO.
+
+4.19. El diseño de las obras de infraestructura de tuberías, equipos, medidores, reguladores, y demás elementos que se utilicen en conexiones de usuarios a los sistemas de distribución y los equipos que utilicen gas combustible deberán cumplir, con las Normas Técnicas Colombianas (Código de Normas Técnicas y de Seguridad), o en su ausencia con las normas internacionales aceptadas por el Ministerio de Minas y Energía.
+
+Doctrina Concordante
+IV.5.2 SUFICIENCIA Y SEGURIDAD DE LA INSTALACIÓN DEL USUARIO.
+
+4.20. <Numeral modificado por el artículo 6 de la Resolución 59 de 2012. El nuevo texto es el siguiente:> La distribuidora deberá rehusar la prestación del servicio, o descontinuar el mismo cuando una instalación o parte de la misma sea insegura, inadecuada, o inapropiada para recibir el servicio y/o cuando no cuente con el Certificado de Conformidad exigido por la normativa técnica o reglamento técnico aplicable; o cuando por causas debidamente comprobables, tales como manipulación indebida, alteraciones o modificaciones a la misma, la instalación interfiera con, o menoscabe la continuidad o calidad del servicio al usuario o a otros usuarios”.
+
+PARÁGRAFO. Hasta que termine la vigencia de los contratos de concesión especial para la prestación del servicio público domiciliario de distribución de gas natural por red de tubería en forma exclusiva en las áreas que a la fecha de publicación de la presente resolución se encuentran concesionadas, se aplicará lo siguiente:
+
+“La distribuidora deberá rehusar la prestación del servicio, o descontinuar el mismo toda vez que considere que una instalación o parte de la misma es insegura, inadecuada, o inapropiada para recibir el servicio, o que interfiere con, o menoscaba, la continuidad o calidad del servicio al usuario o a otros usuarios”.
+
+Notas de Vigencia
+Doctrina Concordante
+Legislación Anterior
+IV.5.3 CONTRAPRESIÓN O SUCCIÓN.
+
+4.21. Cuando la naturaleza del equipo de gas del usuario es tal que puede ocasionar contrapresión o succión en el sistema de tuberías, medidores u otro equipo conexo del distribuidor, el distribuidor deberá suministrar, instalar y mantener dispositivos y protectores apropiados con cargo al usuario.
+
+IV.5.4 MANTENIMIENTO DE LA INSTALACIÓN DEL USUARIO.
+
+4.22. Toda instalación del usuario será mantenida por éste en las condiciones requeridas por las autoridades competentes y por el distribuidor.
+
+Doctrina Concordante
+IV.5.5 MEDICIÓN Y EQUIPOS DE MEDICIÓN.
+
+
+4.23. El distribuidor o el comercializador deberán instalar y mantener un medidor o dispositivo de medición para el servicio. El medidor estará ubicado en un lugar accesible para su lectura, salvo que se instalen dispositivos que permitan su lectura remota.
+
+4.24. De ser requerido por un usuario, podrá instalarse, si es factible, un equipo de lectura de medidor a distancia que transmita la lectura de un medidor a un registro de repetición ubicado en un lugar accesible para su lectura. No obstante, deberá permitirse al distribuidor o el comercializador acceso al medidor interior en todo momento razonable. El costo de instalación, mantenimiento y reposición del medidor correrá por cuenta del usuario.
+
+4.25. <Numeral modificado por el artículo 2 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> El distribuidor podrá periódicamente cambiar o modificar el Sistema de Medición o parte del mismo. El nuevo equipo estará a cargo del distribuidor, a menos de que se trate de fraudes del Usuario, terminación de la vida útil, por mal funcionamiento, cuando el desarrollo tecnológico ponga en el mercado instrumentos de medida más precisos y variación en los consumos por fuera del máximo error permisible conforme a la clase de los equipos, en cuyos casos será a cargo del Usuario, siempre y cuando se trate de un equipo que cumpla con las características requeridas para los equipos de medición y sea acorde con el consumo, de acuerdo con el numeral 4.27 del Anexo General de la Resolución CREG 067 de 1995.
+
+Cuando el distribuidor encuentre defectos en los Equipos de Telemetría de los Usuarios No Regulados que estén obligados a tenerla según el numeral 4.28 de este Código, que afecten la confiabilidad, la precisión o la oportunidad de la transmisión de datos del Sistema de Medición, deberá notificarlo al propietario.
+
+Es obligación del Usuario No Regulado o Comercializador, hacer reparar o reemplazar los Sistemas de Medición de su propiedad y los Equipos de Telemetría a satisfacción del Distribuidor, dentro de los estándares técnicos, cuando se establezca que el funcionamiento no permite determinar en forma adecuada los consumos. Esta reparación o reemplazo se debe efectuar en un período no superior a un periodo de facturación contados a partir del recibo de la notificación por parte del Distribuidor, cuando pasado este período el Usuario No Regulado no tome las acciones necesarias para reparar o reemplazar los equipos de su propiedad, el Distribuidor podrá hacerlo por cuenta del Usuario No Regulado o Comercializador trasladando los costos a estos y en caso de que no se cancele este costo en el plazo establecido por el distribuidor, se procederá al retiro del sistema de medición y cortar el servicio.
+
+Notas de Vigencia
+Legislación Anterior
+4.26. El equipo de medición podrá ser retirado por el distribuidor o el comercializador en cualquier momento después de la terminación o suspensión del servicio, sin cargo al usuario. Si el medidor es de propiedad del usuario, una vez desmontado éste, le será entregado por el distribuidor o el comercializador. Si el usuario intenta una reconexión no autorizada por el distribuidor o el comercializador, tendrá las mismas implicaciones de una acometida fraudulenta.
+
+4.27. <Numeral modificado por el artículo 3 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> Sistemas de Medición.
+
+Los sistemas de medición deberán estar homologados de conformidad con la normativa que se encuentre vigente en el País o, en su defecto, se emplearán las recomendaciones de la Asociación Americana de Gas – “American Gas Association” (AGA), del “American National Standars Institute” (ANSI), última edición y de la International Organization of the Legal Metrology (OIML), y constarán de:
+
+a) Elemento primario: Es el dispositivo esencial usado para la medición del gas; incluye, pero no está limitado a, medidores de orificios, turbinas, ultrasónicos, rotatorios, másicos o de diafragma. Salvo acuerdo entre las partes, para elementos primarios del tipo turbina se evitará el uso de las configuraciones de instalación a que hace referencia el numeral 3.2.2 del reporte número 7 de AGA, en su edición de 1996, o la que lo modifique, adicione o sustituya.
+
+b) Elementos secundarios: Corresponden a los elementos registradores, transductores, o transmisores que proporcionan datos, tales como: presión estática, temperatura del gas, presión diferencial, densidad relativa y son de carácter obligatorio para todos los sistemas.
+
+c) Elementos terciarios: Corresponden a la Terminal Remota, el equipo de Telemetría y un Computador de Flujo o unidad correctora de datos, programado para calcular correctamente el flujo, dentro de límites especificados de exactitud e incertidumbre, que recibe información del elemento primario y de los elementos secundarios.
+
+Los elementos terciarios son de carácter obligatorio para puntos de transferencia de custodia, para Usuarios No Regulados y estaciones de gas natural vehicular, así como para cualquier Usuario con consumos iguales o mayores a la clase B referenciada en la tabla que se encuentra en este numeral.
+
+El distribuidor seleccionará los tipos y características del Sistema de medición correspondiente a las clases referenciadas en la tabla anexa. El Usuario No Regulado o Comercializador deberá proporcionar Sistemas de Medición que brinden registros precisos, conforme a lo establecido en la tabla que a continuación se presenta y que además deberán estar adecuados a los efectos de la facturación y efectuar la revisión y calibración de dichos equipos, conforme lo establezca el fabricante en certificado de conformidad de producto.
+
+DESCRIPCIÓN	CLASE A	CLASE B	CLASE C	CLASE D
+Flujo Máximo Diseño Sistemas de Medición	>353 KPCH
+
+>9995,7 m3/h	< 353 > 35,3 KPCH
+
+< 9995,7 > 999,5 m3/h	< 35,3 > 10 KPCH
+
+< 999,5 > 283,16 m3/h	< 10 KPCH
+
+< 283,16 m3/h
+Error máximo permisible de volumen	+/- 0,9 %	+/- 1,5 %	+/- 2%	+/- 3,0 %
+Error máximo permisible de Energía	+/- 1,0 %	+/- 2,0 %	+/- 3,0 %	+/- 5 %
+Los errores de la tabla anterior deberán ser cumplidos por el Sistema de Medición en su conjunto y adicionalmente, deberá cumplir en la materia con las disposiciones de la Superintendencia de Industria y Comercio.
+
+La instalación de los Sistemas de Medición corresponde al Distribuidor, el cual trasladará al Usuario los costos que por ese hecho se generen.
+
+El Usuario podrá elegir las marcas de los equipos que componen el Sistema de Medición, las cuales solo podrán ser rechazadas por razones técnicas o por falta de homologación.
+
+Cuando el Usuario, por su parte esté obligado a instalar equipos de telemetría según lo establecido en el numeral 4.28 de esta resolución, este será responsable de cubrir los costos de los equipos de telemetría, así como los involucrados en su instalación, operación y mantenimiento, los cuales deberán cumplir con las características técnicas y los protocolos operativos que establezca el distribuidor, así como las recomendaciones de los fabricantes del equipo.
+
+En caso de que el Usuario No Regulado o Comercializador no haya instalado el equipo de telemetría en el plazo señalado en el numeral 5.12 del Capítulo V.3.4, el distribuidor lo instalará y le trasladará los costos correspondientes y en caso de que no se cancele estos costos en el plazo establecido por el distribuidor, se procederá al retiro del Sistema de Medición y cortar el servicio.
+
+Entre las características que se deben garantizar en los equipos de telemetría están las siguientes:
+
+a) Los sistemas de comunicación utilizados en equipos de telemetría deberán garantizar un índice de continuidad del servicio; este índice será acordado entre el distribuidor y el Usuario No Regulado o el Comercializador.
+
+b) El computador de flujo o unidad correctora debe tener al menos un puerto serial de uso exclusivo para Telemetría, de velocidad configurable, donde se conectará un modem externo. El protocolo de comunicaciones del computador de flujo debe ser tipo maestro- esclavo apropiado para redes de área amplia de baja velocidad (< 1 Mbps). Los elementos necesarios para la comunicación (antena, cableado, modem) incluyendo la alimentación del modem y el mantenimiento periódico de éstos hacen parte integral del Equipo de Telemetría.
+
+c) El Computador de Flujo o Unidad Correctora debe tener al menos un puerto de comunicaciones de uso exclusivo del distribuidor, donde se conectará un dispositivo externo de transmisión de datos. La solución de comunicaciones, el tipo de puertos y el protocolo a usar deben ser los requeridos por el Distribuidor a fin que se integren a su Centro de Control.
+
+d) El Computador de Flujo o Unidad Correctora debe satisfacer los requerimientos de la norma técnica internacional API 21.1, o su reporte equivalente en AGA o la que la modifique o sustituya y facilitar el acceso, al Usuario No regulado o Comercializador al cual preste el servicio, a la información del Sistema de Medición.
+
+e) En caso de Sistemas de Medición con Equipos de Telemetría deberá permitir el acceso a los datos de medición al Usuario No Regulado o Comercializador de acuerdo con la periodicidad de comunicación con que cuente el Distribuidor en su página web.
+
+PARÁGRAFO. Para los Usuarios Regulados que según sus consumos la clase del medidor sea C o D deberán cumplir con las Normas Técnicas Colombianas (NTC) 2728 y 4136, así:
+
+Errores máximos permisibles
+
+Tasa de flujo	Verificación inicial	En servicio
+Medidores tipo diafragma
+Qmín = Q = 0.1 Qmáx	± 3%	+6%, -3%
+0.1Qmax = Q = Qmáx	± 1,5%	± 3%
+Tasa de flujo	Medidores tipo rotatorio
+Qmín = Q = 0.1 Qmáx	± 2%	± 3%
+0.1Qmáx = Q = Qmáx	± 1%	± 1,5 %
+Notas de Vigencia
+Legislación Anterior
+4.28 <Numeral adicionado por el artículo 4 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> Conforme a la definición de Equipo de Telemetría, este equipo será obligatorio en las Estaciones Reguladoras de Puerta de Ciudad o un Tanque de Almacenamiento, o estaciones de Transferencia de Custodia de Distribución y los Puntos de Salida donde están ubicados los Usuarios no Regulados y estaciones de GNV, para después transmitirlos al Centro de Control de un Distribuidor donde pueden procesarse y almacenarse. Esta obligación no aplica para las Estaciones Reguladoras de Puerta de Ciudad en las cuales no se encuentren los Equipos de Telemetría en los costos asociados a las unidades constructivas.
+
+El distribuidor podrá instalar una Unidad Correctora o un Computador de Flujo según considere necesario debido a la operación del Usuario.
+
+Para la implementación y aplicación de la Telemetría se tendrán en cuenta además de las establecidas en los numerales 4.25 y 4.27 de este Código, las siguientes disposiciones:
+
+4.28.1. Es responsabilidad del distribuidor realizar las cuentas de balance diarias del Usuario cuando esto aplique, conforme lo establezca la CREG en resolución aparte.
+
+4.28.2. Es responsabilidad del distribuidor los servicios de comunicaciones necesarios para la transmisión de señales desde los puntos de medida con Telemetría hasta los Centros de Control correspondientes.
+
+PARÁGRAFO. Los numerales del artículo 4o, aplican únicamente a sistemas de distribución de gas natural.
+
+Notas de Vigencia
+V. CONDICIONES DE OPERACIÓN DEL SISTEMA DE DISTRIBUCIÓN DE GAS POR REDES.
+
+V.1 INTRODUCCIÓN.
+
+5.1. Este capítulo proporciona las regulaciones que cubren los aspectos más relevantes para la operación de un sistema de distribución, las cuales incluyen la coordinación de los programas de mantenimiento, los procedimientos para la operación, márgenes de operación, control de la demanda, plan de atención de contingencias, y coordinación de seguridad y realización de pruebas, de manera que se asegure el funcionamiento eficiente y seguro del sistema.
+
+V.2 PROVISIONES GENERALES PARA EL PLANEAMIENTO OPERATIVO.
+
+5.2. Las personas que operen parte alguna de un sistema de distribución, deben ser autorizadas por el propietario del sistema y acreditadas por la empresa para el efecto, y hacerlo de acuerdo con las normas específicas correspondientes.
+
+5.3. Cada distribuidor debe establecer un plan escrito de operación y mantenimiento, con el cumplimiento de los requisitos mínimos incluidos en esta parte, y deben mantener un archivo para la administración del plan establecido. Dicho plan debe contener:
+
+- Desarrollar un manual de instrucciones para los empleados que realicen los procedimientos de operación y mantenimiento, durante la operación normal y reparaciones del sistema, que permita realizar las labores en forma segura y eficiente.
+
+- Programas específicos para partes del sistema que presenten peligros potenciales a la seguridad pública, ya sea para atender emergencias o para cumplir requisitos especiales durante construcción o mantenimiento.
+
+- Un programa de procedimientos de conversión, si se contempla la conversión de un sistema de distribución de baja presión, a uno de mayor presión.
+
+- Un plan para inspecciones periódicas para asegurar que las presiones de operación son las adecuadas a cada sección del sistema de distribución.
+
+V.3 CARACTERÍSTICAS DEL SERVICIO.
+
+V.3.1 CONTINUIDAD DEL SERVICIO.
+
+5.4. El distribuidor tomará las medidas necesarias para brindar un suministro del servicio regular y continuo. En el evento que el distribuidor suspendiera, restringiera o descontinuará el suministro en razón de una situación de emergencia o un caso de fuerza mayor o por cualquier otra causa ajena a él, no será responsable por cualquier pérdida o daño, directo o consecuente, resultante de tal suspensión, discontinuidad, defecto, interrupción, restricción, deficiencia o falla.
+
+V.3.2 EMERGENCIA.
+
+5.5. El distribuidor podrá restringir o interrumpir el servicio a cualquier usuario o usuarios, independientemente de las condiciones especiales de dicho servicio, en caso de una emergencia que amenace la integridad de su sistema si, a su juicio, tal acción conjura o mejora la situación de emergencia. El ejercicio de tal derecho estará sujeto a revisión de la CREG.
+
+5.6. El distribuidor estará obligado a responder a las llamadas de emergencia en forma inmediata, independientemente del tiempo requerido para la acción correctiva, una vez se determine el tipo de problema a resolver.
+
+V.3.3 ATENCIÓN DE EMERGENCIAS.
+
+5.7. Toda empresa de distribución deberá contar con un servicio de atención de emergencias, que funcione las 24 horas del día. El tiempo máximo permitido entre el reporte de la emergencia y la presencia del equipo de emergencias en el lugar, no deberá ser superior a una hora.
+
+5.8. El servicio de atención de emergencias deberá redactar un manual de procedimiento para emergencias y un folleto de emergencias para ser repartido entre los usuarios de la empresa, que además indique pautas para el manejo seguro del gas. Igualmente deberán llevar un registro de todas las emergencias presentadas, indicando claramente la causa, y el correctivo correspondiente.
+
+5.9. El servicio de atención de emergencias deberá mantener contacto permanente con los bomberos locales para actuar en forma coordinada. Asimismo deberán realizar, por lo menos una vez por año, un ejercicio conjunto de atención de emergencias. Estará a su cargo la coordinación de la acción de las autoridades con la empresa ante cualquier escape de gas o emergencia
+
+5.10. Será función de la Superintendencia de Servicios Públicos verificar que los puntos anteriores se cumplan.
+
+5.11. El distribuidor deberá informar a cualquier miembro de la comunidad que requiera ejecutar obras, acerca del trazado y las precauciones que se deben tomar para evitar accidentes.
+
+V.3.4 LIMITACIONES.
+
+5.12. <Numeral modificado por el artículo 5 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> El distribuidor o el comercializador se reservarán el derecho, sujeto a revisión por la autoridad reguladora, de:
+
+a) Establecer limitaciones sobre el monto y el carácter del servicio de gas que suministrará.
+
+b) Rehusar el servicio a nuevos Usuarios o Usuarios ya existentes para carga adicional, si el comercializador no puede obtener suministro suficiente para dicho servicio.
+
+c) Rechazar solicitudes de servicio o servicio adicional, cuando no se encuentra gas adicional disponible, sin detrimento de la calidad del servicio a otros Usuarios.
+
+d) En casos de racionamiento programado o de grave emergencia de que trata el Decreto número 880 de 2007, modificado por el Decreto número 4500 de 2009 o aquellos que en el futuro lo modifiquen, adicionen o sustituyan, los distribuidores enviarán para el pronóstico del día de gas las nominaciones diarias de gas por tipo de Usuario Regulado y No Regulado y para los consumos del día de gas la asignación efectiva al CNOG, a la Superintendencia de servicios Públicos y al Ministerio de Minas y Energía para el ejercicio de sus competencias en los tiempos que establezca la CREG en resolución aparte.
+
+e) Cuando por causa de insalvables restricciones o grave emergencia que generen situaciones de racionamiento programado según lo establecido en el Decreto número 880 de 2007, modificado por el Decreto número 4500 de 2009 o aquellos que lo modifiquen, adicionen o sustituyan, se presenten variaciones de salida generadas por los Remitentes o no se atiendan ordenes operacionales emitidas por el distribuidor, que llegasen incluso a la notificación al Usuario para cesar el consumo de gas y este haga caso omiso, situación que será comprobada por el consumo que se registre el día de la restricción en el Sistema de Medición, el Usuario deberá entregar una compensación al distribuidor, equivalente al costo de racionamiento por el consumo asignado más el volumen desviado en el día de la restricción.
+
+El costo de racionamiento, para el cálculo de la compensación, será el equivalente al precio del sustituto, esto es: para los industriales el sustituto sin autogeneración o cogeneración es el GLP, para industriales con autogeneración o cogeneración el sustituto es el Diésel y en el caso de las estaciones de GNV el sustituto es gasolina. Los precios de los sustitutos serán los corrientes a la fecha de la compensación. Para el cálculo del costo se empleará la equivalencia del precio entre el Gas Natural y el sustituto a pesos por metro cúbico.
+
+La compensación antes citada, será entregada al (los) comercializador(es) a prorrata, que atiendan mercado regulado, en donde se generó la variación por parte del Usuario. El comercializador la tomará como una venta de excedente, el cual se verá reflejado en una reducción del componente correspondiente al costo promedio de las compras de Gas –G a trasladar a los Usuarios Regulados que son atendidos por el respectivo Comercializador.
+
+En caso de que el agente deba entregar una compensación, por la ocurrencia de los eventos a los que se refiere el primer inciso del presente literal o por racionamiento programado, solamente se aplicará la contemplada en el presente numeral y no aplicará ninguna otra.
+
+Además, luego de desatender la orden operativa del Distribuidor, este último podrá exigir al usuario la instalación de una válvula de operación remota en el punto de conexión con el usuario, compatible con el sistema de comunicaciones del respectivo Sistema de Distribución, para que se pueda realizar la apertura y cierre de dicha válvula de forma remota desde el Centro de Control del Distribuidor.
+
+El Distribuidor podrá operar la válvula de control remoto para cierre en el punto de conexión, por desviación de consumo en situaciones de Racionamiento Programado y queda exonerado por cualquier daño que puedan sufrir los equipos industriales asociados con la interrupción del servicio.
+
+Si después de seis meses el usuario no cumple con las condiciones descritas anteriormente, el distribuidor deberá cortarle el servicio.
+
+Notas de Vigencia
+Legislación Anterior
+V.3.5 FUERZA MAYOR O CASO FORTUITO.
+
+5.13. El distribuidor se reserva el derecho de restringir o descontinuar el suministro del servicio de gas al usuario por fuerza mayor o caso fortuito.
+
+5.14. Si cualquiera de las partes estuviera incapacitada para cumplir sus obligaciones por razones de fuerza mayor o caso fortuito (excepto la obligación exigible de pagar cualquier suma de dinero) éstas serán suspendidas mientras se mantenga la situación. Deberá existir notificación escrita con los detalles completos dentro de un plazo razonable después de ocurrido el hecho.
+
+5.15. La fuerza mayor o el caso fortuito no eximirán a la parte de su responsabilidad por su negligencia concurrente o en el caso de omisión en emplear la debida diligencia para remediar tal situación y remover la causal con la diligencia adecuada y con toda la razonable prontitud.
+
+V.4 CAUSAS DE SUSPENSIÓN O TERMINACIÓN.
+
+V.4.1 ATRIBUIBLES AL DISTRIBUIDOR.
+
+5.16. <Numeral modificado por el artículo 7 de la Resolución 59 de 2012. El nuevo texto es el siguiente:> El distribuidor tendrá derecho a suspender o descontinuar el servicio por cualquiera de las siguientes razones, previa notificación al usuario en forma escrita o mediante aviso de prensa:
+
+i) Para efectuar reparaciones, modificaciones o mejoras en cualquier parte de su sistema;
+
+ii) Para cumplir de buena fe con cualquier orden o directiva gubernamental, ya sea Nacional o Municipal o de la Autoridad Reguladora, sin perjuicio de que dicha orden o directiva pueda posteriormente considerarse inválida; y,
+
+iii) En los casos establecidos en el numeral 4.20 de este código.
+
+En caso de fugas detectadas por el distribuidor, por el usuario, por la comunidad, por el Organismo de Inspección Acreditado, el distribuidor podrá, por razones de seguridad, suspender el servicio sin notificación o aviso previo”.
+
+PARÁGRAFO. Hasta que termine la vigencia de los contratos de concesión especial para la prestación del servicio público domiciliario de distribución de gas natural por red de tubería en forma exclusiva en las áreas que a la fecha de publicación de la presente resolución se encuentran concesionadas, se aplicará lo siguiente:
+
+“5.16 El distribuidor tendrá derecho a suspender o descontinuar el servicio por cualquiera de las siguientes razones, previa notificación al Usuario en forma escrita o mediante aviso de prensa:
+
+iv) Para efectuar reparaciones, modificaciones o mejoras en cualquier parte de su sistema;
+
+v) Para cumplir de buena fe con cualquier orden o directiva gubernamental, ya sea Nacional o Municipal o de la Autoridad Reguladora, sin perjuicio de que dicha orden o directiva pueda posteriormente considerarse inválida; y,
+
+vi) Si a juicio del distribuidor, la instalación del usuario se hubiera tornado peligrosa o defectuosa”.
+
+Notas de Vigencia
+Doctrina Concordante
+Legislación Anterior
+V.4.2 ATRIBUIBLES AL USUARIO.
+
+5.17. <Numeral modificado por el artículo 8 de la Resolución 59 de 2012. El nuevo texto es el siguiente:> El distribuidor o el comercializador tendrán derecho a suspender o descontinuar el servicio por cualquiera de las siguientes razones, previa notificación escrita al usuario:
+
+i) Falta de pago por el término que fije la entidad prestadora, sin exceder en todo caso de tres períodos de facturación;
+
+ii) Manipulación indebida de cualquier tubería, medidor, u otra instalación del distribuidor;
+
+iii) Cuando la instalación interna del usuario no cuente con el Certificado de Conformidad vigente exigido en las normas aplicables;
+
+iv) Declaración fraudulenta en relación a la utilización del servicio del gas;
+
+v) Reventa de gas a terceros sin la aprobación del distribuidor o el comercializador, cuando constituya una desviación en relación a la utilización previamente declarada;
+
+vi) Negativa del usuario a celebrar contrato por los servicios;
+
+vii) Incrementos no autorizados en el tamaño o capacidad total del equipamiento del usuario;
+
+viii) En caso de que se impidiera injustificadamente al distribuidor o el comercializador el acceso al medidor u otras instalaciones del servicio, o se obstruyera el acceso a las mismas, o dicho acceso fuera peligroso;
+
+Jurisprudencia Concordante
+ix) Negativa de un usuario que recibe servicio interrumpible a descontinuar el uso de gas después de recibir la notificación debida; y,
+
+x) Negativa por parte del usuario a permitir la instalación de un dispositivo de lectura a distancia a solicitud del distribuidor o el comercializador, cuando el distribuidor o el comercializador no puedan obtener el acceso o se les niegue dicho acceso a las instalaciones del usuario durante el programa regular de lectura de medidor por cuatro meses consecutivos”.
+
+PARÁGRAFO. Hasta que termine la vigencia de los contratos de concesión especial para la prestación del servicio público domiciliario de distribución de gas natural por red de tubería en forma exclusiva en las áreas que a la fecha de publicación de la presente resolución se encuentran concesionadas, se aplicará lo siguiente:
+
+“5.17. El distribuidor o el comercializador tendrán derecho a suspender o descontinuar el servicio por cualquiera de las siguientes razones, previa notificación al usuario:
+
+i) Falta de pago por el término que fije la entidad prestadora, sin exceder en todo caso de tres períodos de facturación;
+
+ii) Manipulación indebida de cualquier tubería, medidor, u otra instalación del distribuidor;
+
+iii) Cuando la instalación interna del usuario no pase las pruebas técnicas del distribuidor;
+
+iv) Declaración fraudulenta en relación a la utilización del servicio del gas;
+
+v) Reventa de gas a terceros sin la aprobación del distribuidor o el comercializador, cuando constituya una desviación en relación a la utilización previamente declarada;
+
+vi) Negativa del usuario a celebrar contrato por los servicios;
+
+vii) Incrementos no autorizados en el tamaño o capacidad total del equipamiento del usuario;
+
+viii) En caso de que se impidiera injustificadamente al distribuidor o el comercializador el acceso al medidor u otras instalaciones del servicio, o se obstruyera el acceso a las mismas, o dicho acceso fuera peligroso;
+
+ix) Negativa de un usuario que recibe servicio interrumpible a descontinuar el uso de gas después de recibir la notificación debida; y,
+
+x) Negativa por parte del usuario a permitir la instalación de un dispositivo de lectura a distancia a solicitud del distribuidor o el comercializador, cuando el distribuidor o el comercializador no puedan obtener el acceso o se les niegue dicho acceso a las instalaciones del usuario durante el programa regular de lectura de medidor por cuatro meses consecutivos”.
+
+Notas de Vigencia
+Doctrina Concordante
+Legislación Anterior
+V.4.3 POR RENUNCIAS.
+
+5.18. Si se diera por terminado el servicio de gas por cualquiera de las razones precedentes, tal terminación no será considerada una renuncia a cualquier otro derecho del distribuidor, el comercializador o del usuario. La omisión del distribuidor, el comercializador o del usuario en ejercer sus derechos a la terminación del servicio o cualquier otro derecho no se considerará una renuncia a ejercerlo en lo sucesivo.
+
+V.4.4 RESTITUCIÓN DEL SERVICIO.
+
+5.19. El distribuidor o el comercializador no reanudarán el servicio en las instalaciones del usuario, cuando dicho servicio se hubiera suspendido o descontinuado en razón de cualquier acto o incumplimiento del usuario, hasta tanto el usuario haya corregido la situación o situaciones que ocasionaron la discontinuidad o suspensión del servicio. Al reanudarse el servicio, el usuario estará sujeto a los cargos pertinentes de conformidad con las condiciones del presente Código.
+
+V.4.5 RESTRICCIÓN O INTERRUPCIÓN.
+
+5.20. Toda vez que el distribuidor determine a su juicio que resulta necesaria una restricción o interrupción de los servicios, emitirá a la mayor brevedad posible el aviso, e implementará tal restricción o interrupción de conformidad con los principios y procedimientos enumerados al final de este punto y de acuerdo con las “Pautas para la Administración de Despacho" elaboradas por la empresa. El distribuidor, junto con el/ o los transportadores, someterá a la aprobación de la autoridad reguladora las "Pautas para la Administración de Despacho" acordadas por los mismos.
+
+5.21. En caso de restricción o interrupción del servicio, los contratos firmes serán los últimos en ser restringidos o interrumpidos, y los usuarios residenciales serán los últimos en ser interrumpidos.
+
+5.22. De ser necesario restringir parcialmente el servicio dentro de una clase de usuarios, se aplicará un programa que al efecto establezcan el distribuidor o el comercializador para todos los usuarios de la clase, con base en sus respectivas cantidades contratadas, y que deberá dar a conocer al usuario al momento de contratar el servicio, manteniéndolo informado de las modificaciones que se produzcan.
+
+Doctrina Concordante
+V.5 SISTEMAS DE MEDICIÓN.
+
+<Título modificado por el artículo 6 de la Resolución 127 de 2013>
+
+Notas de Vigencia
+Legislación Anterior
+V.5.1 REVISIÓN A LAS INSTALACIONES Y MEDIDORES DEL USUARIO.
+
+5.23. <Numeral modificado por el artículo 9 de la Resolución 59 de 2012. El nuevo texto es el siguiente:> El usuario deberá realizar una Revisión Periódica de la Instalación Interna de Gas entre el Plazo Mínimo entre Revisión y el Plazo Máximo de Revisión Periódica con Organismos de Inspección Acreditados en Colombia para esta actividad o con las empresas distribuidoras, las cuales podrán realizar la actividad directamente como Organismo Acreditado o a través de sus contratistas que se encuentren acreditados, cumpliendo las condiciones y procedimientos establecidos por las normas técnicas o reglamentos técnicos aplicables. El costo de esta revisión estará a cargo del usuario. El distribuidor será responsable de verificar el cumplimiento de esta obligación del usuario, para lo cual se establecen los siguientes pasos:
+
+Concordancias
+i) El distribuidor deberá notificar al usuario, a partir del Plazo Mínimo entre Revisión, su obligación de hacer la Revisión Periódica de la Instalación Interna de Gas.
+
+La notificación deberá ser enviada por el distribuidor al usuario en forma escrita y anexa a la factura del servicio. Así mismo, las siguientes facturas de los meses anteriores al Plazo Máximo de Revisión, deberán incluir un campo adicional en donde el distribuidor esté informando al usuario el vencimiento de este plazo;
+
+ii) El usuario tendrá la obligación de realizar la Revisión Periódica de su Instalación Interna de Gas, obtener el Certificado de Conformidad de su instalación conforme a las normas técnicas vigentes expedidas por las Autoridades Competentes y dentro del Plazo Máximo de Revisión;
+
+iii) El distribuidor deberá tener un listado actualizado de los Organismos de Inspección Acreditados que podrán realizar la Revisión Periódica de la Instalación Interna de Gas. Lo aquí dispuesto no confiere a los distribuidores la atribución de limitar el número de Organismos incluidos en la base de datos, o de negar su inclusión a las personas que reúnan las condiciones establecidas por las autoridades competentes. En todo caso, las empresas no están facultadas para favorecer monopolios, o impedir que las personas calificadas, según las normas, puedan ejercer su profesión u oficio.
+
+Las empresas tendrán la obligación de divulgar dicho listado en su página web y deberán suministrarlo al usuario con la notificación de que trata el numeral i) anterior y en cualquier momento y por cualquier medio a petición del usuario;
+
+iv) En todo caso es obligación del usuario informarse sobre los organismos que se encuentran acreditados para la realización de la Revisión Periódica de las Instalaciones Internas de Gas, a través de la Superintendencia de Industria y Comercio, el Organismo Nacional de Acreditación (ONAC), a través de las facturas del servicio o de un anexo de estas, expedidas dentro de los Plazos Mínimo y Máximo de Revisión, o en las oficinas y página web del distribuidor;
+
+v) Si faltando un mes para el cumplimiento del Plazo Máximo de Revisión Periódica la empresa distribuidora no ha recibido copia del Certificado de Conformidad por parte de algún Organismo de Inspección Acreditado o del usuario, procederá a avisarle a este en la factura de dicho mes, acerca de la fecha en la que suspenderá el servicio en caso de no realizarse la inspección a la instalación interna y lo invitará a hacer la revisión en mención;
+
+Doctrina Concordante
+vi) El distribuidor sólo recibirá los Certificados de Conformidad emitidos y enviados por los Organismos de Inspección Acreditados, a través de medios electrónicos seguros e implementados por el distribuidor, en concordancia con la reglamentación técnica correspondiente.
+
+El usuario podrá hacer llegar al distribuidor la copia del Certificado de Conformidad que el Organismo de Inspección Acreditado le haya suministrado con el fin de acreditar el cumplimiento de su obligación y evitar la suspensión del servicio. En este caso, el distribuidor verificará su autenticidad;
+
+vii) El distribuidor deberá asegurarse que tanto el Certificado de Conformidad como la identificación del Organismo Acreditado que realizó la Revisión Periódica de la Instalación Interna de Gas, así como la información correspondiente a la instalación interna de gas de sus usuarios y que se consigna en el Certificado de Conformidad, esté en una base de datos que él administre. Adicionalmente, el distribuidor deberá contar con los sistemas de información que permitan hacer la trazabilidad necesaria a la información del usuario respecto a la revisión.
+
+viii) Si diez (10) días calendario antes de cumplirse el Plazo Máximo de la Revisión Periódica el distribuidor no ha recibido el Certificado de Conformidad, deberá informar al usuario de su ausencia y le concederá cinco (5) días calendario para allegarlo, so pena de suspenderle el servicio; en el evento en que el Certificado de Conformidad sea remitido por el usuario directamente a la empresa, a través de los medios que esta haya dispuesto para tal efecto incluidos el fax, el correo electrónico, el distribuidor deberá verificar su autenticidad, esto es, que el Certificado haya sido emitido por un Organismo debidamente Acreditado para efectuar la revisión. Surtido lo anterior sin que la instalación cuente con el Certificado de Conformidad, o en el evento que este no sea auténtico, el distribuidor procederá a la suspensión del servicio.
+
+ix) El distribuidor deberá suspender el servicio de un usuario cuando el Organismo de Inspección Acreditado reporte que la instalación del usuario a la que le está haciendo la Revisión Periódica de la Instalación Interna de Gas no cumple con los requerimientos para ser certificada y la instalación cuenta con defectos críticos o aquellos definidos en el Reglamento Técnico como causantes de la suspensión del servicio;
+
+x) Cuando un usuario tenga suspendido el servicio como consecuencia del proceso de Revisión Periódica de la Instalación Interna de Gas de su instalación interna, el distribuidor deberá establecer un procedimiento de reactivación temporal del servicio a fin de que el Organismo de Inspección Acreditado pueda revisar y certificar la instalación interna. Para estos efectos, el distribuidor acordará con el Organismo de Inspección Acreditado, entre otros aspectos, la fecha y la hora en la que el usuario contará con el servicio. El costo que el distribuidor cobrará al usuario por este concepto, estará bajo el régimen de libertad vigilada;
+
+xi) En caso de que al usuario se le haya suspendido injustamente el servicio por causas atribuibles al Organismo de Inspección Acreditado, se dará aplicación a lo establecido en las normas técnicas, de tal forma que el Organismo de Inspección Acreditado asuma los costos en los que el usuario haya podido incurrir.
+
+PARÁGRAFO 1o. Será potestativo del usuario hacer revisar su instalación en períodos más cortos del establecido en el presente numeral. No obstante, siempre que se efectúen modificaciones a las instalaciones existentes, se dará aplicación a lo establecido en el numeral 2.25 de este Código. En caso de haberse obtenido el Certificado de Conformidad en un plazo inferior al Plazo Máximo de Revisión Periódica, se tomará esta fecha como la última para la realización de la siguiente Revisión Periódica de la Instalación Interna de Gas.
+
+PARÁGRAFO 2o. En caso de situaciones tales como inundaciones, terremotos, deslizamientos de tierra u otras originadas en circunstancias de fuerza mayor, el Plazo Máximo de Revisión Periódica se suspenderá desde el día de su ocurrencia y hasta tanto se normalice la situación. Se entenderá que la situación se ha normalizado cuando la empresa haya reanudado la prestación del servicio, y a partir de dicha fecha volverán a contarse los tiempos correspondientes.
+
+PARÁGRAFO 3o. Por razones de seguridad, se mantiene en cabeza de la empresa distribuidora la revisión, la calibración y el mantenimiento de los equipos de medición”.
+
+PARÁGRAFO 4o. Hasta que termine la vigencia de los contratos de concesión especial para la prestación del servicio público domiciliario de distribución de gas natural por red de tubería en forma exclusiva en las áreas que a la fecha de publicación de la presente resolución se encuentran concesionadas, se aplicará lo siguiente:
+
+“5.23. El distribuidor que presta el servicio en áreas de servicio exclusivo estará obligado a inspeccionar las instalaciones del usuario dentro del Plazo Mínimo entre Revisión y Máximo de Revisión, o a solicitud del usuario, consultando las normas técnicas y de seguridad. Realizará pruebas de hermeticidad, escapes y funcionamiento, a fin de garantizar el cumplimiento de las condiciones de este Código y de los contratos que se suscriban con el usuario. El costo de las pruebas que se requieran, estarán a cargo del usuario”.
+
+Notas de Vigencia
+Jurisprudencia Concordante
+Doctrina Concordante
+Legislación Anterior
+5.24. <Numeral modificado por el artículo 10 de la Resolución 59 de 2012. El nuevo texto es el siguiente:> Cuando así lo exija la normativa técnica o el reglamento técnico aplicable a la actividad de Revisión Periódica de las Instalaciones Internas de Gas, el usuario deberá asegurarse que el Organismo de Inspección Acreditado que le realizó la revisión, coloque una etiqueta visible en la instalación interna en donde conste la fecha de revisión. Así mismo, para los controles que le correspondan, el usuario deberá asegurarse que el Organismo de Inspección Acreditado le entregue el Certificado de Conformidad de la instalación interna”.
+
+PARÁGRAFO. Hasta que termine la vigencia de los contratos de concesión especial para la prestación del servicio público domiciliario de distribución de gas natural por red de tubería en forma exclusiva en las áreas que a la fecha de publicación de la presente resolución se encuentran concesionadas, se aplicará lo siguiente:
+
+“5.24. La empresa distribuidora que presta el servicio en áreas de servicio exclusivo deberá colocar una etiqueta visible donde conste la fecha de revisión y deberá emitir una constancia al usuario”.
+
+Notas de Vigencia
+Legislación Anterior
+5.25. Cuando el distribuidor requiera revisar las instalaciones del usuario o realizar visitas técnicas de revisión e instalación o retiro de medidores, el usuario deberá acceder a esta solicitud previa notificación por escrito.
+
+Concordancias
+Doctrina Concordante
+V.5.2 AUTORIZACIÓN PARA LA CONEXIÓN DE GAS.
+
+5.26. Solamente los empleados o representantes debidamente autorizados del distribuidor podrán conectar el gas en cualquier nuevo sistema, o en cualquier antiguo sistema de tuberías del cual se hubiera interrumpido el uso del servicio de gas. Esto corresponde tanto a las instalaciones del distribuidor, tales como tuberías y servicios, como a la instalación interna del usuario.
+
+V.5.3 INSTALACIÓN DEL EQUIPO DE MEDICIÓN.
+
+5.27. Los equipos de medición deberán cumplir con las Normas Técnicas Colombianas o las homologadas por la Superintendencia de Industria y Comercio, de tal forma que permitan una determinación de la cantidad de gas entregada y una verificación de la exactitud de medición.
+
+V.5.4 AJUSTE Y MANTENIMIENTO DEL EQUIPO DE MEDICIÓN.
+
+5.28. Cada parte tendrá derecho a estar presente en el momento de instalación, lectura, limpieza, cambio, reparación, inspección, comprobación, calibración o ajuste efectuados al equipo de medición involucrado en la facturación. Las lecturas del equipo de medición para efectos de facturación serán tomadas por el comercializador; el usuario podrá llevar los registros que considere necesarios.
+
+V.5.5 COMPROBACIÓN DE MEDICIÓN Y EQUIPO DE MEDICIÓN.
+
+5.29. <Numeral modificado por el artículo 7 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> La exactitud de los equipos de medición será verificada por el Distribuidor a intervalos razonables y como máximo conforme lo establezca el fabricante en certificado de conformidad de producto y de ser solicitado en presencia de representantes del Usuario. En caso de que el Usuario solicite una comprobación especial de cualquier equipo, las partes cooperarán para garantizar una inmediata verificación de exactitud de tal equipo, el gasto de tales comprobaciones especiales correrá por cuenta del usuario.
+
+La calibración de los medidores la realizará el distribuidor en sus propios laboratorios o de terceros debidamente certificados por el Organismo Nacional de Acreditación de Colombia (ONAC). La calibración de los sistemas de medición que no pueda ser realizada en estos laboratorios, deberá llevarse a cabo con laboratorios ubicados en el exterior del país, acreditados de acuerdo con la norma ISO/IEC 17025.
+
+Notas de Vigencia
+Legislación Anterior
+V.5.6 COMPROBACIÓN Y AJUSTE DE MEDIDOR Y EQUIPO DE MEDICIÓN.
+
+5.30. <Numeral modificado por el artículo 8 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> Los sistemas de medición deberán cumplir con lo previsto en el artículo 4.27 de la presente Resolución. El Distribuidor y el Usuario podrán acordar que el medidor será calibrado cuando esté fuera de rango y en caso de que el sistema de medición no se pueda calibrar, este deberá ser reemplazado por uno nuevo.
+
+Notas de Vigencia
+Legislación Anterior
+V.5.7 CONSUMO.
+
+5.31. <Numeral modificado por el artículo 9 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> La cantidad de gas registrada por el sistema de medición de volumen sujeta a las correcciones aplicables por presión, temperatura y compresibilidad, será utilizada para los efectos de facturación.
+
+Notas de Vigencia
+Legislación Anterior
+5.32. <Numeral modificado por el artículo 10 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> Los Comercializadores deberán corregir los volúmenes registrados en los sistemas de medición a los valores de presión y temperatura estándar establecidos en el numeral 5.39, salvo que el Sistema de Medición utilizado tenga incorporados los mecanismos para realizar en forma automática tales correcciones en sitio.
+
+Notas de Vigencia
+Legislación Anterior
+5.33. Para el caso del GLP, los volúmenes deben registrarse a las condiciones de temperatura y presión estipuladas en la Resolución 4404 de 1988 del Ministerio de Minas y Energía.
+
+V.5.8 DETERMINACIÓN DE LOS VOLÚMENES DE GAS ENTREGADOS.
+
+5.34. El volumen de gas entregado en el período de facturación es el consumo registrado en los equipos de medición debidamente corregidos.
+
+5.35. En los casos en que se requiera tener equipos de registro continuo de presión, temperatura y/o densidad, se considerará el promedio aritmético del registro de veinticuatro (24) horas, o de aquella porción de esas veinticuatro (24) horas en la que el gas pasó, en caso de no haber pasado durante el período completo, como la temperatura/presión y/o densidad del gas para ese día y se utilizará para contabilizar el volumen de gas. El distribuidor determinará los casos en que el usuario requiera tener dichos equipos.
+
+5.36. En caso de ser necesario, se determinará la densidad relativa del gas mediante el uso de un gravitómetro. En caso de que se requiera el uso de gravitómetro de uso continuo, el promedio aritmético de la densidad relativa registrada cada día será utilizado para contabilizar los volúmenes de gas entregados.
+
+V.5.9 DETERMINACIÓN DEL PODER CALÓRICO.
+
+5.37. <Numeral derogado por el artículo 11 de la Resolución 127 de 2013 -teniendo en cuenta el periodos de transición establecidos en el artículo 19->
+
+Notas de Vigencia
+Legislación Anterior
+5.38. <Numeral derogado por el artículo 12 de la Resolución 127 de 2013 -teniendo en cuenta el periodos de transición establecidos en el artículo 19->
+
+Notas de Vigencia
+Legislación Anterior
+V.5.10 FACTURACIÓN.
+
+5.39 <Numeral modificado por el artículo 1 de la Resolución 33 de 2015. El nuevo texto es el siguiente:> En caso de facturar el consumo de gas en volumen, este debe expresarse en metros cúbicos a temperatura de 15,56°C (60°F) y a una presión atmosférica de 1,01008 bar (14,65 psia).
+
+La corrección de volumen a estas condiciones estándar se determinará con la siguiente expresión:
+
+
+
+Donde:
+
+Vc	Volumen corregido.
+Vm	Volumen medido al Usuario.
+K p	Factor de corrección por presión.
+KT	Factor de corrección por temperatura.
+Factor de corrección por compresibilidad.
+
+Para proceder al cálculo de los diferentes factores aplicables a la fórmula de Volumen Corregido Vc, se procederá de la siguiente manera:
+
+a) Factor de corrección por presión Kp:
+
+
+
+Donde:
+
+Pm	Presión manométrica en el medidor del Usuario.
+Pa	Presión atmosférica.
+Pe	Presión estándar, 1,01008 Bar (14,65 psia).
+b) Presión manométrica en el medidor del Usuario Pm:
+
+La presión manométrica estará conforme lo dispuesto en la Resolución 9-0902 de 2013 expedida por el Ministerio de Minas y Energía “Reglamento de Instalaciones Internas de Gas combustible”, la cual adoptó las Normas Técnicas Colombianas NTC 2505 y 3838 o aquellas que la modifiquen, adicionen o sustituyan.
+
+c) Presión atmosférica Pa:
+
+La presión atmosférica (barométrica) se determinará a partir de la mejor información disponible, con la siguiente prioridad:
+
+* Barómetro electrónico (promedio mensual).
+
+* Información suministrada por las estaciones del Ideam (promedio mensual).
+
+* Se calcula con base en la presión atmosférica y la altura sobre el nivel del mar y la temperatura del lugar mediante la siguiente ecuación:
+
+
+
+Donde:
+
+[Pa]	Unidades de pascales.
+Po	Presión atmosférica a nivel del mar, 101325 Pa.
+g	Gravedad en la Tierra, 9,81 m/s2
+R	Constante específica para aire seco, 287,058 J/kg·
+x	Altura sobre el nivel del mar en metros [m] a la que se encuentra el domicilio del usuario. Se deben considerar los diferentes pisos térmicos para cada variación de 200 metros sobre el nivel del mar, en donde se tomará el menor valor entre el rango que se encuentre.
+K	Temperatura ambiente promedio mensual en kelvin, donde K = 273,15 +Tm del municipio donde se encuentra el domicilio del Usuario y conforme a su ciclo de facturación.
+La temperatura promedio del ciclo de facturación Tm se calculará mediante la siguiente expresión:
+
+
+
+Donde:
+
+Tm	Temperatura promedio del ciclo de facturación del mes con mayor número de días del ciclo de facturación y corresponde a cada uno de los meses de enero a diciembre. Se expresa en grados centígrados.
+NDn+i	Número de días del ciclo de facturación en el mes n+i.
+tn+i	Temperatura del mes n+i del municipio donde se encuentra el domicilio del usuario. Para esto el Comercializador podrá utilizar el informe “Promedios Climáticos” reportado por el Ideam y utilizará la medición que se asimile más a la localización del domicilio del Usuario, no obstante se deberán utilizar las temperaturas que puedan ser tomadas por equipos de medición de temperatura ambiente pertenecientes al distribuidor o comercializador.
+DF	Número total de días del ciclo de facturación.
+n	Mes calendario de la toma de la lectura.
+Los equipos de medición de temperatura del distribuidor deberán cumplir mínimo con las siguientes especificaciones:
+
+Rango de medición de temperatura ambiental: -10 – 50 oC
+
+Resolución para temperatura del aire: 0,1 oC
+
+Intervalo de medición de temperatura por lo menos cada 5 minutos.
+
+Debe contar con un puerto USB para descargar los datos o cualquier medio apropiado para tal fin.
+
+La calibración de estos equipos deberá hacerse en laboratorio de organismos acreditados ante la ONAC. Para su puesta en funcionamiento, este equipo debe ser llevado a un laboratorio acreditado ante la ONAC para la verificación de que esté debidamente calibrado.
+
+d) Factor de corrección por temperatura KT:
+
+
+
+Donde:
+
+Te	Temperatura estándar, 15,56°C.
+Tm	Temperatura promedio del ciclo de facturación del mes con mayor número de días del ciclo de facturación y corresponde a cada uno de los meses de enero a diciembre. Se expresa en grados centígrados.
+e) Factor de corrección por compresibilidad 
+
+
+
+Donde:
+
+Ze	Factor de compresibilidad a condiciones estándar.
+Zm	Factor de compresibilidad a condiciones medidas.
+Para el cálculo de estos factores se utilizarán las recomendaciones del reporte AGA No 8 de 1994.
+
+El factor se considerará igual a 1 para presiones inferiores a 7 bares en el medidor del Usuario.
+
+PARÁGRAFO 1o. El informe del Ideam “Promedios Climáticos” se encuentra ingresando en la página web de dicha entidad y es responsabilidad del comercializador la descarga de este archivo o de aquellos que lo modifiquen, adicionen o sustituyan.
+
+PARÁGRAFO 2o. En aquellos Mercados Relevantes de Distribución para el Siguiente Periodo Tarifario donde se suministre gas natural y estén conformados a partir de Mercados Existentes de Distribución, Agregación de Mercados Existentes de Distribución o Anexar a Mercados Existentes de Distribución Municipios Nuevos, conforme a lo definido en el numeral 5.2. de la Resolución CREG 202 de 2013 o aquellas que la modifiquen, adicionen o sustituyan, se actualizará mensualmente el cargo de distribución aplicable a usuarios de uso residencial y el cargo promedio de distribución aplicable a usuarios diferentes a los de uso residencial con un Factor de Ajuste de Poder Calorífico que contempla la variación del poder calorífico mensual real con respecto al poder calorífico de la fecha de corte con la que se determinaron los cargos de distribución. Este Factor de Ajuste de Poder Calorífico deberá ser calculado con una precisión de dos cifras decimales y mediante la siguiente ecuación:
+
+
+
+Donde:
+
+PCpond (m,i,k)	Promedio ponderado del mes m, del poder calorífico de los diferentes gases que abastecen a través de los puntos de inyección i al Mercado Relevante de distribución k, tal como se establece en la Resolución CREG 202 de 2013 o aquella que la modifique, adicione o sustituya.
+PVFecha de corte (k)	Promedio ponderado del poder calorífico del volumen de gas comprado en el año de la fecha de corte para el(los) mercado(s) existente(s) de distribución que va(n) a conformar el mercado relevante de distribución k, tal como se establece en la Resolución CREG 202 de 2013 o aquellas que la modifiquen, adicionen o sustituyan.
+El promedio ponderado del poder calorífico PCpond (m,i,k) se calcula con la siguiente fórmula:
+
+
+
+Donde:
+
+n	Número total de puntos de inyección que abastecen el Mercado Relevante de distribución para el Siguiente Periodo Tarifario .
+i	Punto de inyección
+k	Mercado relevante de distribución para el Siguiente Periodo Tarifario.
+Vi,k,m-1	Volumen de gas combustible medido en el punto de inyección i del mercado relevante k en el mes m-1.
+PCi,k,m–1	Poder calorífico en el punto de inyección i del mercado relevante k en el mes m-1.
+Por otra parte, el promedio del poder calorífico del volumen de gas vendido en el año de la fecha de corte se calcula con la siguiente fórmula:
+
+
+
+Donde:
+
+n	Número total de puntos de inyección al Mercado Relevante de distribución .
+i	Punto de inyección
+j	Mes del año de corte. Este corresponde a cada uno de los 11 meses inmediatamente anteriores al mes de fecha de corte mfc, siendo este el mes 0.
+mfc	Mes de la fecha de corte.
+k	Mercado Relevante de Distribución para el Siguiente Periodo Tarifario.
+Vk,imfc–j	Volumen registrado en el punto de inyección i del mercado relevante k en el mes mfc-j.
+PCk,imfc–j	Poder calorífico en el punto de inyección i del mercado relevante k en el mes mfc-j.
+Notas de Vigencia
+Legislación Anterior
+5.40. En caso de facturar en unidades de energía, ésta debe ser en Julios, kJ o en kwh. En cualquier caso deberá respetarse lo establecido en el Decreto Presidencial 1731 de 1967 y la Resolución 1112 de 1967 del Ministerio de Fomento.
+
+5.41. La desviación del gas de la Ley de Boyle, se determinará mediante comprobaciones periódicas. En caso de que se justifique, se deberá aplicar la corrección correspondiente.
+
+5.42. Cuando se cobren distintos bienes y servicios en la misma factura, será obligatorio totalizar por separado cada bien o servicio, los cuales podrán ser cancelados por el suscriptor de manera independiente. Para ello la factura podrá contener un desprendible especial donde conste el valor del bien o servicio y la forma y condiciones de pago. Las sanciones por no pago procederán únicamente respecto del servicio o bien que no sea pagado oportunamente.
+
+5.43. Las empresas de distribución podrán establecer facilidades, para la adquisición de gasodomésticos, por parte de los usuarios, en desarrollo del contrato de servicio público de distribución de gas. Las empresas de distribución podrán establecer tales facilidades directamente con terceros para tal fin. La anterior posibilidad deberá estar previamente prevista en las condiciones uniformes de los contratos y ser autorizada por el usuario.
+
+V.5.11 LECTURA DE CONEXIÓN.  
+
+5.44. Cualquier usuario que inicie el uso de gas violando estas condiciones generales sin efectuar la solicitud del servicio y sin permitir que el distribuidor o el comercializador lean el medidor, será responsable por el servicio suministrado a las instalaciones desde la última lectura del medidor inmediatamente anterior a la toma de posesión del usuario, según lo indicado en los registros del distribuidor.
+
+V.5.12 LECTURA FINAL.
+
+5.45. Un usuario que solicite la suspensión o el corte del servicio deberá notificar en la forma apropiada según lo estipulado en las condiciones especiales aplicables, con el fin de permitir al distribuidor o el comercializador que efectúen una lectura final durante las horas comerciales normales.
+
+5.46. Si el distribuidor o el comercializador no reciben dicha notificación del usuario, éste será responsable por el servicio hasta tanto se efectúe la lectura final del medidor. La notificación de la suspensión o el corte del servicio no relevará al usuario de cualesquier obligaciones contractuales, inclusive cualquier pago mínimo o garantizado en virtud de cualquier contrato o condiciones especiales del servicio.
+
+V.5.13 LECTURA DEL MEDIDOR.
+
+5.47. Los medidores de los usuarios se leerán mensualmente o con mayor o menor frecuencia, a opción del distribuidor o el comercializador.
+
+V.5.14 VERIFICACIÓN DE MEDICIÓN.
+
+5.48. <Numeral modificado por el artículo 14 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> Los Usuarios podrán instalar un medidor adicional, con el objeto de monitorear o evaluar su propio consumo para efectos contables y para verificar los consumos de gas.
+
+Notas de Vigencia
+Legislación Anterior
+V.5.15 INSTALACIÓN DE EQUIPO DE VERIFICACIÓN DE MEDICIÓN.
+
+5.49. <Numeral modificado por el artículo 15 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> El Sistema de medición que se instale para la verificación de la medición del consumo, adicional al Sistema de Medición, podrá ser de propiedad del Distribuidor, del Comercializador o del Usuario, dependiendo de lo que se establezca en el contrato. Adicionalmente, el Usuario actuando conjuntamente con el Distribuidor o el Comercializador podrán instalar, mantener y operar, a su cargo, el componente del Sistema de Medición que desee, previa autorización del Distribuidor o del Comercializador, y siempre y cuando tal equipo no interfiera con la operación del Sistema de Medición del Distribuidor o el Comercializador en el punto de entrega o cerca del mismo.
+
+Notas de Vigencia
+Legislación Anterior
+V.5.16 RESPONSABILIDAD DEL USUARIO.
+
+5.50. <Numeral modificado por el artículo 16 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> Antes de instalar cualquier Sistema de medición para la verificación de la medición del consumo, el Usuario deberá contactar al Distribuidor de modo que éstos puedan determinar si el componente del Sistema de Medición propuesto puede ocasionar una caída de presión en las instalaciones del Usuario. En caso de considerarlo necesario, el Distribuidor podrá solicitar al Usuario o Comercializador que presente planos detallados y especificaciones relativas a la instalación propuesta. En caso de que el Distribuidor compruebe que podría producirse una caída significativa en la presión, rechazará la instalación propuesta.
+
+Notas de Vigencia
+Legislación Anterior
+5.51. El usuario proporcionará y mantendrá un espacio adecuado para el medidor y equipo conexo. Dicho espacio estará tan cerca como sea posible del punto de entrada del servicio y estará así mismo adecuadamente ventilado, seco y libre de vapores corrosivos, no sujeto a temperaturas extremas y de fácil acceso para los empleados del distribuidor o el comercializador.
+
+5.52. El usuario no adulterará, ni modificará, ni retirará medidores u otros equipos, ni permitirá acceso a los mismos salvo al personal autorizado por el distribuidor o el comercializador. En caso de pérdida o daño a los bienes del distribuidor o el comercializador por acto o negligencia del usuario o sus representantes o empleados, o en caso de no devolver el equipo suministrado por el distribuidor o el comercializador, el usuario deberá pagar el monto de tal pérdida o daño ocasionado a los bienes.
+
+5.53. <Numeral modificado por el artículo 17 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> El usuario será responsable del cuidado de los Sistemas de Medición, bien sean de su propiedad, del Distribuidor o del Comercializador. Esta responsabilidad del Usuario incluirá, a título enunciativo, demandas por daños y perjuicios ocasionados por la presencia, instalación o falta de seguridad en la operación de dicho dispositivo por parte del Usuario, reclamos por facturación inadecuada, honorarios de abogados y costos conexos.
+
+Notas de Vigencia
+Legislación Anterior
+5.54. En caso que se estableciera que los servicios, medidores, reguladores u otro equipo en las instalaciones del usuario, han sido manipulados indebidamente, el usuario deberá hacerse cargo de todos los costos incurridos por el distribuidor o el comercializador inclusive, a título enunciativo y no limitativo, lo siguiente: (i) investigaciones, (ii) inspecciones, (iii) costos de juicios penales o civiles, (iv) honorarios legales, y (v) instalación de cualquier equipo protector considerado necesario por el distribuidor o el comercializador.
+
+V.5.17 SELLOS Y TRABAS.
+
+5.55. El distribuidor o el comercializador deberán sellar todos los medidores o recintos que contengan medidores y equipos conexos de medición. Ninguna persona, salvo un empleado debidamente autorizado del distribuidor o del comercializador, deberá romper o remover un sello.
+
+V.5.18 INCUMPLIMIENTO DE ESPECIFICACIONES.
+
+5.56. Si el gas combustible entregado por el distribuidor, no se ajustara a cualquiera de las especificaciones estipuladas por la CREG, el usuario mediante notificación al distribuidor o el comercializador podrá, a su opción, rehusarse a aceptar la entrega mientras se encuentre pendiente la corrección por parte del distribuidor.
+
+V.5.19 CARGO POR DEVOLUCIÓN DE CHEQUE.
+
+5.57. Fíjase, en los términos establecidos por el Código de Comercio, el cargo para reembolsar al distribuidor o el comercializador el gasto de procesar cheques devueltos por el banco del usuario.
+
+V.5.20 CARGO DE RECONEXIÓN.
+
+5.58. Podrá cobrarse un cargo por cada reactivación del servicio, el que será fijado por el distribuidor o el comercializador, previa conformidad de la autoridad reguladora.
+
+Doctrina Concordante
+V.5.21 AJUSTE Y REPARACIÓN DE DISPOSITIVOS.
+
+5.59. <Numeral modificado por el artículo 11 de la Resolución 59 de 2012. El nuevo texto es el siguiente:> El distribuidor proporcionará los siguientes servicios en forma gratuita:
+
+-Desconexión del medidor.
+
+-Investigación de fugas de gas y otros pedidos relacionados con la seguridad.
+
+Otros servicios efectuados a los equipos y dispositivos, se prestarán mediante el cobro de un cargo.
+
+Los costos involucrados en la verificación que trata el artículo 5.23. del presente anexo, serán remunerados al distribuidor de conformidad con la metodología que para el efecto expida la CREG”.
+
+PARÁGRAFO. Hasta que termine la vigencia de los contratos de concesión especial para la prestación del servicio público domiciliario de distribución de gas natural por red de tubería en forma exclusiva en las áreas que a la fecha de publicación de la presente resolución se encuentran concesionadas, se aplicará lo siguiente:
+
+“5.59. El distribuidor que presta el servicio en áreas de servicio exclusivo proporcionará los siguientes servicios en forma gratuita:
+
+-Desconexión del medidor.
+
+-Investigación de fugas de gas y otros pedidos relacionados con la seguridad.
+
+Otros servicios efectuados a los equipos y dispositivos, se prestarán mediante el cobro de un cargo”.
+
+Notas de Vigencia
+Legislación Anterior
+V.6 ESPECIFICACIONES DE CALIDAD MÍNIMAS DEL SUMINISTRO.  
+
+V.6.1 PODER CALÓRICO, CALIDAD DEL GAS Y ODORIZACIÓN.
+
+5.60. La CREG en resolución aparte reglamentará las especificaciones mínimas de calidad y odorización del gas combustible a ser entregado por el distribuidor. La odorización por parte del distribuidor, del productor o del comercializador no se interpretará como que interfiere con la comercialidad del gas entregado.
+
+V.6.2 FLUCTUACIONES EN LA PRESIÓN DE SUMINISTRO.
+
+5.61. El distribuidor deberá garantizar la presión estable del suministro, dentro de los rangos establecidos en las Normas Técnicas Colombianas.
+
+V.6.3 CÁLCULO DE PÉRDIDAS.
+
+<Título adicionado por el artículo 18 de la Resolución 127 de 2013. El nuevo texto es el siguiente:>
+
+5.62 <Numeral modificado por el artículo 1 de la Resolución 240A de 2016. El nuevo texto es el siguiente:> Para las pérdidas en el sistema de distribución, el distribuidor o el Comercializador determinará el porcentaje de pérdidas real con base en la siguiente ecuación:
+
+
+
+Donde:
+
+pm Es el porcentaje de pérdidas en el sistema de distribución en el mes m de facturación.
+
+Vusuario,m-j Es la sumatoria de los volúmenes de las facturas emitidas a los usuarios en el mes m-j, expresados en metros cúbicos (m3), corregidos por compresibilidad y a condiciones estándar de presión y temperatura.
+
+Vm-j,k Es el volumen de gas combustible medido en el mes m-j en las estaciones de puerta de ciudad y/o puntos de inyección al sistema de Distribución, expresado en metros cúbicos (m3), corregido por compresibilidad y a condiciones estándar de presión y temperatura.
+
+n Número total de puntos de inyección.
+
+k Corresponde a los puntos de inyección del sistema de distribución.
+
+El valor a trasladar al Usuario final será el resultado de aplicar la anterior fórmula. En caso de que el resultado sea un valor negativo, se trasladará este valor. En caso de que el resultado sea un valor positivo, se establece el máximo porcentaje de pérdidas a trasladar a los usuarios regulados y no regulados conforme a la siguiente fórmula:
+
+
+
+Donde:
+
+(FPmáx)m Factor de pérdidas máximo trasladable a los usuarios regulados y no regulados en el mes m de facturación.
+
+emáxUR Error máximo permisible del sistema de medición del usuario regulado.
+
+EmáxUNR Error máximo permisible del sistema de medición del usuario no regulado.
+
+VUNR, m-j Sumatoria de los volúmenes en metros cúbicos (m3) facturados a los Usuarios no regulados en el mes m-j, corregidos por compresibilidad y a condiciones estándar de presión y temperatura.
+
+VUR, m-j Sumatoria de los volúmenes en metros cúbicos (m3) facturados a los Usuarios regulados en el mes m-j, corregidos por compresibilidad y a condiciones estándar de presión y temperatura.
+
+El porcentaje de pérdidas máximo determinado con la anterior ecuación deberá ser calculado con una precisión de dos cifras decimales y redondeado a una cifra decimal.
+
+El error máximo del sistema de medición de los usuarios regulados y no regulados, emáxUR y emáxUNR respectivamente, se calcularán de acuerdo a las siguientes expresiones:
+
+
+
+Donde:
+
+eCG Error máximo permisible del sistema de medición en la estación puertas de ciudad, fijado en +/- 0.9% según el artículo 3o de la Resolución CREG 127 de 2013.
+
+eUR Error máximo permisible del sistema de medición del usuario regulado, fijado en +/- 3.0% según el artículo 3o de la Resolución CREG 127 de 2013.
+
+eUNR Error máximo permisible del sistema de medición del usuario no regulado, fijado en +/- 2.0% según el artículo 3o de la Resolución CREG 127 de 2013.
+
+PARÁGRAFO. El porcentaje de pérdidas que se utilizará para la aprobación del cargo de distribución de gas combustible por redes de tuberías para el siguiente periodo tarifario será aquel que resulte de calcular las pérdidas del mercado relevante de distribución, conforme a lo establecido en la presente resolución, utilizando la información de inyección y demanda reportada por la empresa en su solicitud tarifaria. Este porcentaje se trasladará hasta un máximo de 3.7%.
+
+Notas de Vigencia
+Legislación Anterior
+VI. DEFINICIONES.
+
+6.1. Para todos los efectos, las definiciones aplicables a este Código son las consignadas en las Resoluciones CREG 017, 018, 019, y 020 de 1995.
+
+<Definiciones adicionadas por el artículo 1 de la Resolución 127 de 2013. El nuevo texto es el siguiente:> Para la interpretación y aplicación de la telemetría, se tendrán en cuenta las siguientes definiciones:
+
+Centros de Control del Distribuidor: Centro perteneciente al Sistema de Distribución operado por un agente encargado de adelantar los procesos operacionales, comerciales y demás definidos en el Código de Distribución.
+
+Para los fines de Telemetría el Centro de Control tiene el hardware y el software necesario para la adquisición de datos que se envía desde las estaciones remotas.
+
+Computador de Flujo o unidad correctora de volumen: Es un elemento terciario del Sistema de Medición que recibe las señales de salida proveniente(s) del (de los) dispositivo(s) de medición de flujo, o de otro computador de flujo y/o de los instrumentos de medida asociados, transformándolos y puede almacenar los resultados en la memoria como mínimo por 40 días para que sean usados.
+
+Equipo de Telemetría: Elemento del sistema de medición utilizado para la transmisión de datos de forma remota, con equipos eléctricos o electrónicos para detectar, acumular y procesar datos físicos en las Estaciones Reguladoras de Puerta de Ciudad o una estación de Gas Natural Comprimido o estaciones de Transferencia de Custodia de Distribución y los Puntos de Salida donde están ubicados los Usuarios No Regulados y estaciones de GNV; para después transmitirlos al Centro de Control de un Distribuidor donde pueden procesarse y almacenarse.
+
+Sistema de Medición: Sistema que comprende el módulo de medición, todos los dispositivos auxiliares y adicionales, y cuando sea apropiado, un sistema de soportes documentales asegurando la calidad y la trazabilidad de los datos.
+
+GPRS: Servicio General de Paquetes vía Radio.
+
+Telemetría: Es la lectura de forma remota, periódica de la información disponible en medidores de consumo de gas con el objetivo de:
+
+-- Realizar de forma remota la gestión del sistema de medición:
+
+-- Lectura del medidor.
+
+-- Monitoreo de las variables.
+
+-- Realizar de forma remota la gestión operativa y del servicio.
+
+-- Diagnóstico y detección de fallas.
+
+-- Recolección de la información necesaria para la facturación.
+
+-- Monitoreo de la calidad del servicio.
+
+-- Control de pérdidas / Detección y prevención de fraude.
+
+Para poder realizar el envío de los datos cuenta con sistemas de transmisión como: satélite, fibra óptica, GPRS, teléfono fijo, Unidad Terminal Remota (UTR), entre otros.
+
+SCADA: Supervisión, Control y Adquisición de Datos.
+
+Unidad Terminal Remota (UTR): Sigla más conocida en inglés como RTU, mediante la cual se define a un dispositivo que es parte del sistema de medición y basado en microprocesadores, el cual permite obtener señales independientes de los procesos y enviar la información al Centro de Control de un Distribuidor donde se procese haciendo parte de un sistema central Scada o un software de adquisición de datos el cual permita, entre otras, visualizar las variables enviadas por la UTR. Este elemento puede reemplazar al computador de flujo en la medida en que cumpla con los estándares técnicos para tal fin, lo que lo convierte en parte constitutiva del Sistema de Medición.
+
+Notas de Vigencia
+VII. CONDICIONES GENERALES.
+
+VII.1 PROCEDIMIENTOS.
+
+VII.1.1 APLICACIÓN.
+
+7.1. Las presentes condiciones generales forman parte de todos los contratos de servicio para el suministro de gas, a los cuales se les podrá anexar adicionalmente condiciones especiales aplicables, o términos especiales, que formarán parte del mismo.
+
+7.2. Ningún distribuidor, comercializador o sus representantes, podrán modificar cualquier disposición contenida en este Código.
+
+7.3. La omisión del distribuidor o el comercializador en hacer cumplir cualquier disposición, términos o condiciones estipulados en el presente Código, no se considerará como una renuncia a exigir su cumplimiento en lo sucesivo.
+
+7.4. Ninguna modificación de los términos y condiciones de cualquier contrato de servicio tendrá vigencia, salvo mediante la celebración de un nuevo contrato de servicio.
+
+VII.1.2 REVISIÓN DEL CÓDIGO.
+
+7.5. El presente Código está sujeto a las disposiciones que emita la autoridad reguladora, la cual podrá modificarlo cuando así lo considere, previa consulta con la Superintendencia de Servicios Públicos y la Dirección de Hidrocarburos del Ministerio de Minas y Energía.
+
+VII.1.3 DIVULGACIÓN DE LAS DETERMINACIONES, REVISIONES Y NOTICIAS.
+
+7.6. La CREG informará a los distribuidores, comercializadores y usuarios afectados sobre las determinaciones y revisiones del Código, sin detrimento de los contratos suscritos con el Ministerio de Minas y Energía que mantendrán las obligaciones allí pactadas.
+
+VII.1.4 ACCESO NO DISCRIMINATORIO.
+
+7.7. El distribuidor estará obligado a permitir interconexiones con sus instalaciones y acceso a sus servicios de ventas, transporte y almacenaje sobre una base no discriminatoria; no obstante lo anterior el distribuidor tendrá derecho a rehusar interconexiones o acceso a los servicios que a su juicio: (a) no cumplan con las disposiciones del Código, o (b) sean antieconómicas al evaluarlas conforme a los stándares <sic> comerciales normales, incluyendo recursos provenientes de los fondos de solidaridad. El ejercicio del derecho del distribuidor a rehusar la interconexión o el acceso a los servicios, estará sujeto a revisión por parte de la autoridad reguladora.
+
+Doctrina Concordante
+7.8. El acceso a la capacidad firme disponible se determinará con base en que el primero en solicitar el servicio será el primero en ser provisto, después de dar aviso público de tal disponibilidad con 30 días de anticipación. El acceso a la capacidad interrumpible se asignará mensualmente entre las partes que los soliciten, mediante notificación dada con 15 días de anticipación al mes correspondiente, pero el distribuidor o el comercializador podrán rechazar o reducir solicitudes de servicio interrumpible que no estén respaldadas por contratos de servicios, por uso anterior, o por capacidad de consumo instalada.
+
+Doctrina Concordante
+VII.1.5 RECLAMOS POR ERRORES DE FACTURACIÓN Y OTROS.
+
+7.9. La empresa deberá tener una Oficina de Peticiones, Quejas y Recursos, diferente del servicio de atención de emergencias. Tal como está establecido en las Circulares 001 y 002 de marzo de 1995 de la Superintendencia de Servicios Públicos, y en el Estatuto Nacional de Usuarios de los Servicios Públicos Domiciliarios (Decreto 1842, de julio de 1991, del Ministerio de Desarrollo Económico).
+
+7.10. La Oficina de Peticiones, Quejas y Recursos deberá contar con suficiente número de líneas telefónicas para que sean atendidas todas las llamadas en horas de oficina. Como elemento de medida para la Superintendencia de Servicios Públicos, toda llamada deberá ser atendida en un lapso máximo de 3 minutos.
+
+7.11. El usuario que reclame por errores en la facturación, deberá recibir respuesta como máximo a los quince (15) días hábiles de recibido el reclamo, y en caso de haber un cambio deberá reflejarse en la siguiente factura. Adicionalmente, el comercializador deberá estar en condiciones de informar en sus oficinas más cercanas al domicilio del usuario, cuál ha sido su decisión, luego de transcurridos quince (15) días hábiles.
+
+7.12. El comercializador deberá llevar, en cada una de sus oficinas en las que atienda al público, un registro de quejas, en el que deberán quedar sentadas las quejas que los usuarios formulen por escrito, ya sea personalmente o por correo. Dicho registro deberá mantenerse a disposición de la CREG y de la Superintendencia de Servicios Públicos, quienes podrán requerir periódicamente un informe de tales registros.
+
+7.13. Cuando la empresa vaya a realizar trabajos deberá colocar la señalización adecuada para los mismos para evitar accidentes. Esto será considerado un parámetro para medir la calidad del servicio por parte de La Superintendencia de Servicios Públicos.
+
+7.14. El incumplimiento de los anteriores numerales, será objeto de sanción por parte de la Superintendencia de Servicios Públicos.
+
+VII.1.6 ATENCIÓN AL CLIENTE.
+
+7.15. La empresa no podrá fijar citas para visitar o cumplir trabajos en las instalaciones de los clientes, en un plazo mayor a 15 días hábiles.
+
+7.16. La empresa no podrá demorarse más de 3 días hábiles para dar una cita o para fijar una visita a un cliente, a partir del recibo de la solicitud.
+
+7.17. La empresa deberá contestar toda la correspondencia que reciba, y en un lapso de tiempo no superior a los 15 días hábiles. En caso de que la respuesta requiera de un análisis más largo, deberá comunicársele al usuario.
+
+7.18. La empresa no podrá incumplir citas o visitas programadas a los clientes, salvo que exista causa justificativa.
+
+7.19. Cuando la empresa vaya a realizar trabajos de mantenimiento preventivo o de otra indole que perturben las actividades de sus clientes y de la ciudadanía en general, deberá avisar por lo menos con 24 horas de anticipación, para dar tiempo a que tomen medidas.
+
+7.20. Para instalaciones nuevas, la empresa dispondrá como máximo treinta días habiles para la conexión del servicio, una vez el usuario haya pagado los derechos correspondientes.
+
+7.21. Cuando se trate de reconexiones a usuarios cortados, una vez que el usuario se haya puesto al día y pagado los derechos correspondientes, la empresa tendrá como máximo 2 días para restituir el servicio.
+
+7.22. El suministro de gas no podrá ser suspendido por fallas en el servicio o por otro motivo por mas de 24 horas, salvo que se trate de fuerza mayor o caso fortuito, debidamente comprobados ante la Superintendencia de Servicios Públicos, si ésta así lo requiere.
+
+7.23. Las empresas de distribución de gas deberán tener instalados medidores en un 100% de los usuarios, salvo que existan causas técnicas ajenas a la empresa que impidan la instalación de los medidores. Adicionalmente, la empresa para efectos de facturación deberá hacer una lectura efectiva del 100% de los consumos de cada usuario, salvo por causas imputables de éste.
+
+7.24. La Superintendencia de Servicios Públicos deberá llevar un control y seguimiento de la calidad del servicio mediante muestreos aleatorios de los servicios de las empresas, así:
+
+- Atención de llamadas: Mediante llamadas a la Oficina de Peticiones, Quejas y Recursos de cada empresa, teniendo en cuenta la calidad del servicio telefónico de cada localidad.
+
+- Para los demás indicadores: Mediante encuestas con los usuarios de la empresa, y revisión de las estadísticas de ésta.
+
+7.25. El incumplimiento de los anteriores numerales, será objeto de sanción por parte de la Superintendencia de Servicios Públicos.
+
+VII.2 GRANDES CONSUMIDORES CONECTADOS AL SISTEMA DE DISTRIBUCIÓN.
+
+7.26. Cuando las condiciones establecidas para el distribuidor lo contemplen, los grandes consumidores que estén conectados a las redes de distribución pueden optar por no comprar el gas directamente al distribuidor según la Resolución 018 de 1995. Cuando este sea el caso, la relación entre el consumidor y la empresa distribuidora o entre el comercializador y la empresa distribuidora es similar a la de un transportador y los usuarios conectados al sistema troncal. Por lo tanto, estos casos serán regulados por las obligaciones y procedimientos establecidos en el Código de Transporte.
+
+Doctrina Concordante
+ Ministro de Minas y Energía
+
+RODRIGO VILLAMIZAR ALVARGONZALEZ
+
+Presidente
+
+ANTONIO BARBERENA S.
+
+Director Ejecutivo (e)
+
+Ir al inicio
+Reducir
+Normal
+Aumentar
+
+IR ARRIBA
+
+
+Gestor Normativo de la Comisión de Regulación de Energía y Gas - Alejandría
+ISBN 978-958-98069-2-0
+Última actualización:  31 de marzo de 2023 (Diario Oficial No. 52.342 de 20 de marzo de 2023)
+Control de versiones
+Créditos y reserva de derechos de autor
+Comisión de Regulación de Energía y Gas CREG - DRA © 2019 a 2021
